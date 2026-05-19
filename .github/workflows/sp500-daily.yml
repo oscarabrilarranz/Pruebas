@@ -26,7 +26,7 @@ jobs:
         pip install yfinance pandas requests lxml html5lib
 
     - name: Ejecutar script
-      run: python Top5SP500.py
+      run: python top5sp500.py
 
     - name: Guardar CSV
       uses: actions/upload-artifact@v4
