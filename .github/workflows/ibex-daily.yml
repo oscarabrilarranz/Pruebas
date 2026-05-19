@@ -1,47 +1,29 @@
-name: Ejecutar IBEX diario
+name: Test escritura
 
 permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: '30 16 * * 1-5'
   workflow_dispatch:
 
 jobs:
-  ejecutar:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Descargar repositorio
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Configurar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Instalar dependencias
-        run: |
-          pip install yfinance pandas requests lxml html5lib
-
-      - name: Ejecutar script
-        run: python top5ibex.py
-
-      - name: Crear carpeta resultados
+      - name: Crear carpeta y archivo
         run: |
           mkdir -p resultados
-          cp ibex35_top5_caidas_subidas.csv resultados/ibex35_top5_caidas_subidas.csv
-          ls -la resultados
+          echo "Prueba $(date)" > resultados/test.txt
 
-      - name: Guardar CSV como artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: ibex-resultados
-          path: resultados/ibex35_top5_caidas_subidas.csv
+      - name: Ver contenido
+        run: |
+          ls -R
 
-      - name: Commit automático de resultados
+      - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualización automática IBEX"
-          file_pattern: resultados/ibex35_top5_caidas_subidas.csv
+          commit_message: "Prueba carpeta resultados"
+          file_pattern: resultados/test.txt
