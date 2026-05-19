@@ -1,29 +1,61 @@
-name: Test escritura
+name: Ejecutar IBEX diario
 
 permissions:
   contents: write
 
 on:
+  schedule:
+    - cron: '30 16 * * 1-5'
   workflow_dispatch:
 
 jobs:
-  test:
+  ejecutar:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Crear carpeta y archivo
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install yfinance pandas requests lxml html5lib
+
+      - name: Ejecutar script
+        run: python top5ibex.py
+
+      - name: Guardar CSV como artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ibex-resultados
+          path: ibex35_top5_caidas_subidas.csv
+
+      - name: Guardar resultados en repo
         run: |
           mkdir -p resultados
-          echo "Prueba $(date)" > resultados/test.txt
+          cp ibex35_top5_caidas_subidas.csv resultados/
 
-      - name: Ver contenido
+      - name: Commit resultados
         run: |
-          ls -R
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-      - name: Commit
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Prueba carpeta resultados"
-          file_pattern: resultados/test.txt
+          git status
+          ls -la
+          ls -la resultados
+
+          git add -A resultados/
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios que commitear"
+          else
+            git commit -m "Actualización automática IBEX"
+            git pull --rebase
+            git push
+          fi
