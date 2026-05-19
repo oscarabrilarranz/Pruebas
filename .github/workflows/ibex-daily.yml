@@ -1,20 +1,22 @@
 name: Ejecutar IBEX diario
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: '30 18 * * 1-5'
-
+    - cron: '30 16 * * 1-5'
   workflow_dispatch:
 
 jobs:
   ejecutar:
-
     runs-on: ubuntu-latest
 
     steps:
-
     - name: Descargar repositorio
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true
 
     - name: Configurar Python
       uses: actions/setup-python@v5
@@ -33,7 +35,7 @@ jobs:
       with:
         name: ibex-resultados
         path: ibex35_top5_caidas_subidas.csv
-        
+
     - name: Guardar resultados en repo
       run: |
         mkdir -p resultados
@@ -46,3 +48,6 @@ jobs:
         git add resultados/
         git commit -m "Actualización automática IBEX" || exit 0
         git push
+
+
+  
