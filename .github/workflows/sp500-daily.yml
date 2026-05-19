@@ -1,35 +1,47 @@
 name: Ejecutar SP500 diario
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: '30 22 * * 1-5'
-
+    - cron: '30 20 * * 1-5'
   workflow_dispatch:
 
 jobs:
   ejecutar:
-
     runs-on: ubuntu-latest
 
     steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
 
-    - name: Descargar repositorio
-      uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    - name: Configurar Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
+      - name: Instalar dependencias
+        run: |
+          pip install yfinance pandas requests lxml html5lib
 
-    - name: Instalar dependencias
-      run: |
-        pip install yfinance pandas requests lxml html5lib
+      - name: Ejecutar script
+        run: python top5sp500.py
 
-    - name: Ejecutar script
-      run: python top5sp500.py
+      - name: Crear carpeta resultados
+        run: |
+          mkdir -p resultados
+          cp sp500_top5_caidas_subidas.csv resultados/sp500_top5_caidas_subidas.csv
+          ls -la resultados
 
-    - name: Guardar CSV
-      uses: actions/upload-artifact@v4
-      with:
-        name: sp500-resultados
-        path: sp500_top5_caidas_subidas.csv
+      - name: Guardar CSV como artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sp500-resultados
+          path: resultados/sp500_top5_caidas_subidas.csv
+
+      - name: Commit automático de resultados
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualización automática SP500"
+          file_pattern: resultados/sp500_top5_caidas_subidas.csv
