@@ -26,7 +26,7 @@ jobs:
         pip install yfinance pandas requests lxml html5lib
 
     - name: Ejecutar script
-      run: python Top5IBEX.py
+      run: python top5ibex.py
 
     - name: Guardar CSV
       uses: actions/upload-artifact@v4
