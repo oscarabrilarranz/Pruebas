@@ -33,3 +33,16 @@ jobs:
       with:
         name: ibex-resultados
         path: ibex35_top5_caidas_subidas.csv
+        
+    - name: Guardar resultados en repo
+      run: |
+        mkdir -p resultados
+        cp ibex35_top5_caidas_subidas.csv resultados/
+
+    - name: Commit resultados
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add resultados/
+        git commit -m "Actualización automática IBEX" || exit 0
+        git push
