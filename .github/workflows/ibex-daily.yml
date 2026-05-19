@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -30,32 +28,20 @@ jobs:
       - name: Ejecutar script
         run: python top5ibex.py
 
+      - name: Crear carpeta resultados
+        run: |
+          mkdir -p resultados
+          cp ibex35_top5_caidas_subidas.csv resultados/ibex35_top5_caidas_subidas.csv
+          ls -la resultados
+
       - name: Guardar CSV como artifact
         uses: actions/upload-artifact@v4
         with:
           name: ibex-resultados
-          path: ibex35_top5_caidas_subidas.csv
+          path: resultados/ibex35_top5_caidas_subidas.csv
 
-      - name: Guardar resultados en repo
-        run: |
-          mkdir -p resultados
-          cp ibex35_top5_caidas_subidas.csv resultados/
-
-      - name: Commit resultados
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
-          git status
-          ls -la
-          ls -la resultados
-
-          git add -A resultados/
-
-          if git diff --cached --quiet; then
-            echo "No hay cambios que commitear"
-          else
-            git commit -m "Actualización automática IBEX"
-            git pull --rebase
-            git push
-          fi
+      - name: Commit automático de resultados
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualización automática IBEX"
+          file_pattern: resultados/ibex35_top5_caidas_subidas.csv
