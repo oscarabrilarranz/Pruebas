@@ -1,0 +1,35 @@
+name: Ejecutar IBEX diario
+
+on:
+  schedule:
+    - cron: '30 18 * * 1-5'
+
+  workflow_dispatch:
+
+jobs:
+  ejecutar:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Descargar repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Instalar dependencias
+      run: |
+        pip install yfinance pandas requests lxml html5lib
+
+    - name: Ejecutar script
+      run: python Top5IBEX.py
+
+    - name: Guardar CSV
+      uses: actions/upload-artifact@v4
+      with:
+        name: ibex-resultados
+        path: ibex35_top5_caidas_subidas.csv
