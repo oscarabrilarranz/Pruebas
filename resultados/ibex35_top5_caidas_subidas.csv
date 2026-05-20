@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Solaria,SLR.MC,24.93,23.35,-6.34,21.23,,137390000
-Mayor caída,ACS,ACS.MC,131.7,124.3,-5.62,33.87,,991340032
-Mayor caída,Acciona,ANA.MC,259.2,251.0,-3.16,17.02,,803000000
-Mayor caída,Sacyr,SCYR.MC,4.59,4.45,-3.01,40.47,,96529000
-Mayor caída,ArcelorMittal,MTS.MC,52.58,51.28,-2.47,15.59,,2921999872
-Mayor subida,Telefónica,TEF.MC,4.03,4.1,1.71,10.44,,-2199000064
-Mayor subida,Cellnex Telecom,CLNX.MC,28.61,29.03,1.47,-170.76,,-348776000
-Mayor subida,Fluidra,FDR.MC,18.82,19.08,1.38,20.52,,173840992
-Mayor subida,Naturgy,NTGY.MC,27.58,27.94,1.31,12.64,,2047000064
-Mayor subida,Redeia Corporación,RED.MC,14.7,14.86,1.09,16.51,,490798016
+Mayor caída,Puig,PUIG.MC,17.56,17.68,0.68,16.84,,
+Mayor caída,ACS,ACS.MC,124.3,,,34.41,,991340032.0
+Mayor caída,Acerinox,ACX.MC,14.35,,,10.57,,-45074000.0
+Mayor caída,Amadeus IT Group,AMS.MC,52.18,,,17.3,,1337400064.0
+Mayor caída,Acciona,ANA.MC,251.0,,,16.95,,803000000.0
+Mayor subida,Puig,PUIG.MC,17.56,17.68,0.68,16.84,,
+Mayor subida,ACS,ACS.MC,124.3,,,34.41,,991340032.0
+Mayor subida,Acerinox,ACX.MC,14.35,,,10.57,,-45074000.0
+Mayor subida,Amadeus IT Group,AMS.MC,52.18,,,17.3,,1337400064.0
+Mayor subida,Acciona,ANA.MC,251.0,,,16.95,,803000000.0
