@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Akamai Technologies,AKAM,150.77,141.34,-6.25,47.75,,435179008
-Mayor caída,Builders FirstSource,BLDR,70.18,66.39,-5.4,25.34,,291480992
-Mayor caída,First Solar,FSLR,233.64,221.71,-5.11,14.31,,1665313024
-Mayor caída,Vertiv,VRT,339.73,322.63,-5.03,81.27,,1558400000
-Mayor caída,Trade Desk (The),TTD,22.27,21.16,-4.98,24.05,,432623008
-Mayor subida,EQT Corporation,EQT,57.45,59.77,4.04,11.34,,3284336896
-Mayor subida,Sandisk,SNDK,1333.01,1383.29,3.77,47.16,,4506999808
-Mayor subida,Hasbro,HAS,93.72,97.18,3.69,15.27,,-222600000
-Mayor subida,PG&E Corporation,PCG,15.85,16.41,3.53,12.72,,2844000000
-Mayor subida,Lilly (Eli),LLY,988.09,1021.41,3.37,36.27,,25276999680
+Mayor caída,Hasbro,HAS,97.18,88.6,-8.83,13.92,,-222600000
+Mayor caída,CME Group,CME,302.37,290.12,-4.05,24.73,,4244800000
+Mayor caída,Intuit,INTU,399.71,383.93,-3.95,24.95,,4339999744
+Mayor caída,Analog Devices,ADI,414.31,398.05,-3.92,75.82,,2706852096
+Mayor caída,Dow Inc.,DOW,37.74,36.27,-3.9,16.96,,-2859000064
+Mayor subida,United Airlines Holdings,UAL,89.12,98.02,9.99,8.77,,3664999936
+Mayor subida,Supermicro,SMCI,30.56,33.46,9.49,17.61,,1247389952
+Mayor subida,Delta Air Lines,DAL,67.76,74.12,9.39,10.82,,4476000256
+Mayor subida,Carnival Corporation,CCL,23.89,26.03,8.96,11.47,,3096000000
+Mayor subida,Norwegian Cruise Line Holdings,NCLH,14.79,16.03,8.38,12.93,,568206976
