@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,ACS,ACS.MC,126.3,124.2,-1.66,33.75,,991340032
-Mayor caída,Amadeus IT Group,AMS.MC,52.78,51.92,-1.63,17.02,,1337400064
-Mayor caída,Santander,SAN.MC,10.62,10.46,-1.56,11.88,,12467999744
-Mayor caída,BBVA,BBVA.MC,19.47,19.23,-1.23,10.57,,10405000192
-Mayor caída,International Airlines Group,IAG.MC,4.58,4.52,-1.16,6.28,,3467000064
-Mayor subida,Naturgy,NTGY.MC,28.04,29.4,4.85,13.24,,2047000064
-Mayor subida,Enagás,ENG.MC,16.94,17.22,1.65,13.67,,330812000
-Mayor subida,Repsol,REP.MC,22.57,22.89,1.42,10.7,,2395000064
-Mayor subida,Logista,LOG.MC,32.94,33.28,1.03,16.48,,266086000
-Mayor subida,Redeia Corporación,RED.MC,14.83,14.96,0.88,16.62,,490798016
+Mayor caída,Puig,PUIG.MC,17.64,15.27,-13.44,14.54,,
+Mayor caída,Repsol,REP.MC,22.89,22.26,-2.75,10.4,,2395000064.0
+Mayor caída,Cellnex Telecom,CLNX.MC,29.11,28.69,-1.44,-168.76,,-348776000.0
+Mayor caída,Laboratorios Rovi [es],ROVI.MC,59.8,59.05,-1.25,25.02,,140442000.0
+Mayor caída,Mapfre,MAP.MC,4.21,4.16,-1.14,11.24,,1167600000.0
+Mayor subida,ArcelorMittal,MTS.MC,54.54,56.7,3.96,17.23,,2921999872.0
+Mayor subida,Solaria,SLR.MC,23.56,24.15,2.5,21.95,,164390000.0
+Mayor subida,Indra,IDR.MC,51.52,52.68,2.25,20.5,,452728992.0
+Mayor subida,Acerinox,ACX.MC,14.93,15.25,2.14,10.71,,-45074000.0
+Mayor subida,Acciona,ANA.MC,249.6,254.4,1.92,17.25,,803000000.0
