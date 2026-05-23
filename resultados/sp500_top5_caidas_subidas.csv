@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Intuit,INTU,383.93,307.07,-20.02,19.99,,4339999744
-Mayor caída,EchoStar,SATS,141.8,128.44,-9.42,-1126.67,,-14441396224
-Mayor caída,Walmart,WMT,130.85,121.34,-7.27,44.45,,21892999168
-Mayor caída,Deere & Company,DE,560.46,531.35,-5.19,30.0,,4814000128
-Mayor caída,Valero Energy,VLO,253.77,241.09,-5.0,17.62,,4196000000
-Mayor subida,Ralph Lauren Corporation,RL,329.24,374.9,13.87,25.54,,918499968
-Mayor subida,IBM,IBM,225.0,252.97,12.43,22.39,,10732999680
-Mayor subida,Lumentum,LITE,868.07,964.5,11.11,171.01,,439000000
-Mayor subida,Sandisk,SNDK,1392.56,1542.24,10.75,52.74,,4506999808
-Mayor subida,Seagate Technology,STX,751.07,810.46,7.91,77.11,,2377999872
+Mayor caída,Coinbase,COIN,193.56,184.99,-4.43,67.76,,800601984
+Mayor caída,Take-Two Interactive,TTWO,238.08,227.55,-4.42,22.44,,-3964900096
+Mayor caída,Sandisk,SNDK,1542.24,1478.69,-4.12,50.47,,4506999808
+Mayor caída,EchoStar,SATS,128.44,124.2,-3.3,-1089.47,,-14441396224
+Mayor caída,Robinhood Markets,HOOD,75.92,73.64,-3.0,35.75,,1896999936
+Mayor subida,Dell Technologies,DELL,252.8,295.19,16.77,34.05,,5936000000
+Mayor subida,HP Inc.,HPQ,21.9,25.24,15.25,9.56,,2508999936
+Mayor subida,NetApp,NTAP,123.95,139.36,12.43,23.38,,1212000000
+Mayor subida,Skyworks Solutions,SWKS,73.54,82.42,12.08,34.34,,361200000
+Mayor subida,Estée Lauder Companies (The),EL,78.91,88.32,11.92,27.78,,-248000000
