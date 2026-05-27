@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Puig,PUIG.MC,15.27,15.27,0.0,14.54,,
-Mayor caída,ACS,ACS.MC,125.6,,,32.86,,991340032.0
-Mayor caída,Acerinox,ACX.MC,15.54,,,11.01,,-45074000.0
-Mayor caída,Amadeus IT Group,AMS.MC,53.08,,,17.18,,1337400064.0
-Mayor caída,Acciona,ANA.MC,256.8,,,17.56,,803000000.0
-Mayor subida,Puig,PUIG.MC,15.27,15.27,0.0,14.54,,
-Mayor subida,ACS,ACS.MC,125.6,,,32.86,,991340032.0
-Mayor subida,Acerinox,ACX.MC,15.54,,,11.01,,-45074000.0
-Mayor subida,Amadeus IT Group,AMS.MC,53.08,,,17.18,,1337400064.0
-Mayor subida,Acciona,ANA.MC,256.8,,,17.56,,803000000.0
+Mayor caída,ACS,ACS.MC,125.2,,,33.07,,991340032
+Mayor caída,Acerinox,ACX.MC,15.91,,,10.98,,-45074000
+Mayor caída,Amadeus IT Group,AMS.MC,52.4,,,17.51,,1337400064
+Mayor caída,Acciona,ANA.MC,258.8,,,17.02,,803000000
+Mayor caída,Acciona Energía,ANE.MC,24.08,,,11.62,,655000000
+Mayor subida,ACS,ACS.MC,125.2,,,33.07,,991340032
+Mayor subida,Acerinox,ACX.MC,15.91,,,10.98,,-45074000
+Mayor subida,Amadeus IT Group,AMS.MC,52.4,,,17.51,,1337400064
+Mayor subida,Acciona,ANA.MC,258.8,,,17.02,,803000000
+Mayor subida,Acciona Energía,ANE.MC,24.08,,,11.62,,655000000
