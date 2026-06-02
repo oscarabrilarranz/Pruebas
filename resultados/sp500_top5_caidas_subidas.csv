@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Clorox,CLX,96.2,90.02,-6.42,14.64,,756000000
-Mayor caída,ResMed,RMD,203.42,190.57,-6.32,18.38,,1519565952
-Mayor caída,Intel,INTC,120.89,114.68,-5.14,74.48,,-3174000128
-Mayor caída,Skyworks Solutions,SWKS,81.41,77.85,-4.37,32.44,,361200000
-Mayor caída,Coherent Corp.,COHR,376.95,361.47,-4.11,171.31,,400608992
-Mayor subida,Dell Technologies,DELL,317.05,420.91,32.76,48.44,,5936000000
-Mayor subida,NetApp,NTAP,142.4,174.29,22.39,27.45,,1212000000
-Mayor subida,ServiceNow,NOW,108.73,124.37,14.38,73.59,,1756999936
-Mayor subida,IBM,IBM,264.22,297.8,12.71,26.33,,10732999680
-Mayor subida,Hewlett Packard Enterprise,HPE,38.21,43.04,12.64,15.75,,-234000000
+Mayor caída,Cboe Global Markets,CBOE,333.56,300.99,-9.76,25.7,,1229500032
+Mayor caída,Qualcomm,QCOM,251.02,228.99,-8.78,24.62,,9923999744
+Mayor caída,Constellation Energy,CEG,287.75,265.7,-7.66,23.1,,3791000064
+Mayor caída,Texas Pacific Land Corporation,TPL,392.4,368.23,-6.16,50.51,,503625984
+Mayor caída,CME Group,CME,273.54,257.76,-5.77,21.97,,4244800000
+Mayor subida,MGM Resorts,MGM,43.67,50.69,16.08,69.44,,187731008
+Mayor subida,CDW Corporation,CDW,125.45,140.98,12.38,17.17,,1077100032
+Mayor subida,Datadog,DDOG,247.35,277.49,12.19,711.51,,135672992
+Mayor subida,Gartner,IT,162.2,179.59,10.72,17.73,,740636032
+Mayor subida,Dell Technologies,DELL,420.91,465.96,10.7,53.74,,8408999936
