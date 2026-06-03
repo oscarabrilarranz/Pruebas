@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Cboe Global Markets,CBOE,333.56,300.99,-9.76,25.7,,1229500032
-Mayor caída,Qualcomm,QCOM,251.02,228.99,-8.78,24.62,,9923999744
-Mayor caída,Constellation Energy,CEG,287.75,265.7,-7.66,23.1,,3791000064
-Mayor caída,Texas Pacific Land Corporation,TPL,392.4,368.23,-6.16,50.51,,503625984
-Mayor caída,CME Group,CME,273.54,257.76,-5.77,21.97,,4244800000
-Mayor subida,MGM Resorts,MGM,43.67,50.69,16.08,69.44,,187731008
-Mayor subida,CDW Corporation,CDW,125.45,140.98,12.38,17.17,,1077100032
-Mayor subida,Datadog,DDOG,247.35,277.49,12.19,711.51,,135672992
-Mayor subida,Gartner,IT,162.2,179.59,10.72,17.73,,740636032
-Mayor subida,Dell Technologies,DELL,420.91,465.96,10.7,53.74,,8408999936
+Mayor caída,Trade Desk (The),TTD,23.22,21.1,-9.13,23.98,,432623008
+Mayor caída,Intuit,INTU,353.76,322.14,-8.94,19.64,,4584000000
+Mayor caída,Cboe Global Markets,CBOE,300.99,275.59,-8.44,23.53,,1229500032
+Mayor caída,Carvana,CVNA,71.0,65.6,-7.61,37.92,,1440999936
+Mayor caída,HP Inc.,HPQ,29.34,27.29,-6.99,10.11,,2552999936
+Mayor subida,Hewlett Packard Enterprise,HPE,47.0,56.15,19.47,52.48,,1440000000
+Mayor subida,Coherent Corp.,COHR,362.9,426.89,17.63,204.25,,400608992
+Mayor subida,Lumentum,LITE,905.0,1029.15,13.72,181.83,,439000000
+Mayor subida,Corning Inc.,GLW,176.7,200.4,13.41,96.35,,1810000000
+Mayor subida,Ciena,CIEN,569.61,627.0,10.08,399.36,,229048992
