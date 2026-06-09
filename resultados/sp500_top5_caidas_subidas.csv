@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Micron Technology,MU,996.0,864.01,-13.25,40.81,,24110999552
-Mayor caída,Teradyne,TER,406.86,357.93,-12.03,66.28,,854059008
-Mayor caída,First Solar,FSLR,314.95,279.01,-11.41,18.01,,1665313024
-Mayor caída,Sandisk,SNDK,1759.68,1559.32,-11.39,53.18,,4506999808
-Mayor caída,Intel,INTC,111.78,99.17,-11.28,64.18,,-3174000128
-Mayor subida,Cooper Companies (The),COO,62.02,67.34,8.58,33.5,,235800000
-Mayor subida,FedEx Freight,FDXF,157.71,167.84,6.42,36.89,,903000000
-Mayor subida,Kimberly-Clark,KMB,93.19,99.04,6.28,19.16,,1720999936
-Mayor subida,Clorox,CLX,89.63,94.14,5.03,15.31,,756000000
-Mayor subida,Kenvue,KVUE,16.88,17.71,4.92,21.08,,1622000000
+Mayor caída,Akamai Technologies,AKAM,149.32,141.87,-4.99,50.49,,435179008
+Mayor caída,Hershey Company (The),HSY,184.58,175.9,-4.7,32.76,,1094161024
+Mayor caída,Ciena,CIEN,488.21,466.67,-4.41,156.6,,438300000
+Mayor caída,GoDaddy,GDDY,84.38,80.7,-4.36,12.79,,870099968
+Mayor caída,Vulcan Materials Company,VMC,281.38,269.98,-4.05,31.99,,1117900032
+Mayor subida,Intel,INTC,99.17,110.27,11.19,71.63,,-3174000128
+Mayor subida,Micron Technology,MU,864.01,949.28,9.87,40.81,,24110999552
+Mayor subida,KLA Corporation,KLAC,1929.2,2108.06,9.27,54.64,,4670560768
+Mayor subida,Applied Materials,AMAT,453.01,492.17,8.64,42.54,,8508000256
+Mayor subida,Lam Research,LRCX,303.28,324.45,6.98,61.45,,6708201984
