@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Akamai Technologies,AKAM,149.32,141.87,-4.99,50.49,,435179008
-Mayor caída,Hershey Company (The),HSY,184.58,175.9,-4.7,32.76,,1094161024
-Mayor caída,Ciena,CIEN,488.21,466.67,-4.41,156.6,,438300000
-Mayor caída,GoDaddy,GDDY,84.38,80.7,-4.36,12.79,,870099968
-Mayor caída,Vulcan Materials Company,VMC,281.38,269.98,-4.05,31.99,,1117900032
-Mayor subida,Intel,INTC,99.17,110.27,11.19,71.63,,-3174000128
-Mayor subida,Micron Technology,MU,864.01,949.28,9.87,40.81,,24110999552
-Mayor subida,KLA Corporation,KLAC,1929.2,2108.06,9.27,54.64,,4670560768
-Mayor subida,Applied Materials,AMAT,453.01,492.17,8.64,42.54,,8508000256
-Mayor subida,Lam Research,LRCX,303.28,324.45,6.98,61.45,,6708201984
+Mayor caída,Hubbell Incorporated,HUBB,485.03,486.47,0.3,28.73,,904300032
+Mayor caída,3M,MMM,153.85,,,30.13,,2787000064
+Mayor caída,A. O. Smith,AOS,57.33,,,15.79,,527600000
+Mayor caída,Abbott Laboratories,ABT,90.5,,,25.56,,6252000256
+Mayor caída,AbbVie,ABBV,223.07,,,111.04,,3595000064
+Mayor subida,Hubbell Incorporated,HUBB,485.03,486.47,0.3,28.73,,904300032
+Mayor subida,3M,MMM,153.85,,,30.13,,2787000064
+Mayor subida,A. O. Smith,AOS,57.33,,,15.79,,527600000
+Mayor subida,Abbott Laboratories,ABT,90.5,,,25.56,,6252000256
+Mayor subida,AbbVie,ABBV,223.07,,,111.04,,3595000064
