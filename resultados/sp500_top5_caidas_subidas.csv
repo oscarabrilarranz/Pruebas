@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,PTC Inc.,PTC,135.08,118.39,-12.36,11.37,,1246361984
-Mayor caída,Oracle Corporation,ORCL,201.26,184.1,-8.53,31.52,,16984000512
-Mayor caída,Autodesk,ADSK,221.28,205.57,-7.1,30.01,,1463000064
-Mayor caída,GoDaddy,GDDY,80.28,75.17,-6.37,11.91,,870099968
-Mayor caída,Adobe Inc.,ADBE,233.38,218.8,-6.25,12.52,,7229000192
-Mayor subida,Sandisk,SNDK,1643.23,1881.51,14.5,64.11,,4506999808
-Mayor subida,KLA Corporation,KLAC,213.56,241.16,12.92,685.12,,4670560768
-Mayor subida,Lam Research,LRCX,321.8,362.52,12.65,68.53,,6708201984
-Mayor subida,Micron Technology,MU,891.88,995.87,11.66,46.95,,24110999552
-Mayor subida,EchoStar,SATS,115.24,128.13,11.19,-1123.95,,-14441396224
+Mayor caída,EchoStar,SATS,128.13,114.08,-10.97,-1000.7,,-14441396224
+Mayor caída,Adobe Inc.,ADBE,218.8,204.02,-6.76,11.67,,7229000192
+Mayor caída,Carvana,CVNA,67.82,64.1,-5.49,37.27,,1440999936
+Mayor caída,Lennar,LEN,94.95,90.3,-4.9,14.15,,1595262976
+Mayor caída,TKO Group Holdings,TKO,213.7,203.36,-4.84,75.88,,226346000
+Mayor subida,Mosaic Company (The),MOS,21.09,22.69,7.59,162.07,,45000000
+Mayor subida,Albemarle Corporation,ALB,158.65,170.42,7.42,14.11,,-399635008
+Mayor subida,Seagate Technology,STX,868.09,931.04,7.25,88.5,,2377999872
+Mayor subida,Intel,INTC,116.96,124.57,6.51,80.8,,-3174000128
+Mayor subida,Western Digital,WDC,529.29,562.93,6.36,33.67,,6350000128
