@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,ACS,ACS.MC,124.7,,,33.01,,991340032
-Mayor caída,Acerinox,ACX.MC,16.83,,,11.5,,-45074000
-Mayor caída,Amadeus IT Group,AMS.MC,52.44,,,17.12,,1337400064
-Mayor caída,Acciona,ANA.MC,252.6,,,17.07,,803000000
-Mayor caída,Acciona Energía,ANE.MC,23.09,,,11.23,,655000000
-Mayor subida,ACS,ACS.MC,124.7,,,33.01,,991340032
-Mayor subida,Acerinox,ACX.MC,16.83,,,11.5,,-45074000
-Mayor subida,Amadeus IT Group,AMS.MC,52.44,,,17.12,,1337400064
-Mayor subida,Acciona,ANA.MC,252.6,,,17.07,,803000000
-Mayor subida,Acciona Energía,ANE.MC,23.09,,,11.23,,655000000
+Mayor caída,ArcelorMittal,MTS.MC,59.22,57.8,-2.4,17.57,,2921999872
+Mayor caída,Fluidra,FDR.MC,19.51,19.23,-1.44,20.68,,173840992
+Mayor caída,Inmobiliaria Colonial,COL.MC,5.7,5.64,-1.05,10.06,,345448992
+Mayor caída,Grifols,GRF.MC,9.05,9.0,-0.51,14.76,,415000000
+Mayor caída,Cellnex Telecom,CLNX.MC,28.91,28.79,-0.42,-169.35,,-348776000
+Mayor subida,Acciona,ANA.MC,251.8,263.2,4.53,17.87,,803000000
+Mayor subida,Acciona Energía,ANE.MC,22.46,23.22,3.38,11.61,,655000000
+Mayor subida,Bankinter,BKT.MC,14.69,15.1,2.83,12.69,,1110540032
+Mayor subida,CaixaBank,CABK.MC,12.31,12.64,2.64,15.6,,5712999936
+Mayor subida,Unicaja,UNI.MC,3.04,3.12,2.63,13.01,,628505984
