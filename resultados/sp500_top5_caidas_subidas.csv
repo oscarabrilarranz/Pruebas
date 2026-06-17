@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Cboe Global Markets,CBOE,292.91,265.24,-9.45,22.63,,1229500032.0
-Mayor caída,Monolithic Power Systems,MPWR,1652.29,1498.77,-9.29,106.75,,679657024.0
-Mayor caída,Lumentum,LITE,957.24,875.36,-8.55,154.93,,439000000.0
-Mayor caída,Intel,INTC,127.86,117.05,-8.45,75.93,,-3174000128.0
-Mayor caída,Coherent Corp.,COHR,413.84,382.81,-7.5,181.43,,400608992.0
-Mayor subida,Take-Two Interactive,TTWO,216.23,229.97,6.35,22.8,,-298200000.0
-Mayor subida,Moderna,MRNA,52.13,55.4,6.27,-13.18,,-3193999872.0
-Mayor subida,Western Digital,WDC,653.53,681.08,4.22,40.71,,6350000128.0
-Mayor subida,Fiserv,FISV,47.91,49.83,4.01,8.45,,
-Mayor subida,Pool Corporation,POOL,191.03,198.08,3.69,18.19,,404067008.0
+Mayor caída,Carvana,CVNA,70.04,62.86,-10.25,36.55,,1440999936
+Mayor caída,EchoStar,SATS,120.97,111.7,-7.66,-979.82,,-14441396224
+Mayor caída,Equifax,EFX,167.13,154.84,-7.35,27.26,,698700032
+Mayor caída,AppLovin,APP,515.2,479.49,-6.93,41.73,,3914972928
+Mayor caída,Charter Communications,CHTR,141.78,132.0,-6.9,3.57,,4933000192
+Mayor subida,Moderna,MRNA,55.4,61.8,11.55,-14.7,,-3193999872
+Mayor subida,Robinhood Markets,HOOD,96.71,105.2,8.78,51.07,,1896999936
+Mayor subida,GE Vernova,GEV,982.35,1048.86,6.77,30.68,,9374999552
+Mayor subida,Vertiv,VRT,299.6,317.58,6.0,79.79,,1558400000
+Mayor subida,Western Digital,WDC,681.08,712.13,4.56,42.67,,6350000128
