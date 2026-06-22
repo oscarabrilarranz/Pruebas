@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Accenture,ACN,156.01,127.98,-17.97,10.49,,7648264192
-Mayor caída,Cognizant,CTSH,48.82,43.7,-10.49,9.48,,2228999936
-Mayor caída,Kroger,KR,61.82,56.61,-8.43,36.76,,1009000000
-Mayor caída,L3Harris,LHX,313.17,294.82,-5.86,31.98,,1332999936
-Mayor caída,Northrop Grumman,NOC,550.15,521.5,-5.21,16.34,,4576000000
-Mayor subida,Sandisk,SNDK,1958.8,2184.75,11.54,74.62,,4506999808
-Mayor subida,Corning Inc.,GLW,175.4,194.92,11.13,98.94,,1810000000
-Mayor subida,Intel,INTC,121.1,133.99,10.64,86.7,,-3174000128
-Mayor subida,Supermicro,SMCI,27.78,30.66,10.37,16.14,,1247389952
-Mayor subida,KLA Corporation,KLAC,238.73,259.56,8.73,73.32,,4670560768
+Mayor caída,Moderna,MRNA,63.96,59.35,-7.22,-14.15,,-3193999872
+Mayor caída,Palantir Technologies,PLTR,128.47,119.5,-6.98,134.27,,2281529088
+Mayor caída,Verisign,VRSN,264.64,247.69,-6.4,27.37,,840899968
+Mayor caída,Chipotle Mexican Grill,CMG,32.49,30.54,-6.0,28.02,,1451986048
+Mayor caída,Netflix,NFLX,77.38,72.88,-5.82,23.51,,13373640704
+Mayor subida,Supermicro,SMCI,30.66,35.46,15.66,18.66,,1247389952
+Mayor subida,Coherent Corp.,COHR,389.57,425.48,9.22,202.61,,400608992
+Mayor subida,ON Semiconductor,ON,121.62,131.55,8.16,96.73,,573699968
+Mayor subida,Corning Inc.,GLW,194.92,209.83,7.65,100.4,,1810000000
+Mayor subida,Ciena,CIEN,428.22,460.33,7.5,153.44,,438300000
