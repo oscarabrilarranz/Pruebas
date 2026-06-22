@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,International Airlines Group,IAG.MC,5.33,5.25,-1.61,7.29,,3467000064
-Mayor caída,ArcelorMittal,MTS.MC,55.88,55.0,-1.57,16.72,,2921999872
-Mayor caída,Fluidra,FDR.MC,19.46,19.19,-1.39,20.63,,173840992
-Mayor caída,Inditex,ITX.MC,56.5,55.74,-1.35,27.59,,6289999872
-Mayor caída,AENA,AENA.MC,27.04,26.7,-1.26,18.54,,2164784128
-Mayor subida,Acciona,ANA.MC,266.8,281.2,5.4,19.09,,803000000
-Mayor subida,Acciona Energía,ANE.MC,22.72,23.48,3.35,11.74,,655000000
-Mayor subida,Indra,IDR.MC,53.74,55.06,2.46,21.42,,452728992
-Mayor subida,Repsol,REP.MC,21.27,21.55,1.32,10.07,,2395000064
-Mayor subida,Merlin Properties,MRL.MC,15.27,15.44,1.11,11.27,,778897024
+Mayor caída,Indra,IDR.MC,55.06,53.6,-2.65,20.86,,452728992
+Mayor caída,Telefónica,TEF.MC,3.69,3.6,-2.6,9.15,,-2356000000
+Mayor caída,Puig,PUIG.MC,16.19,15.92,-1.67,15.16,,593696000
+Mayor caída,Inditex,ITX.MC,55.74,55.16,-1.04,27.31,,6289999872
+Mayor caída,Grifols,GRF.MC,9.1,9.03,-0.83,14.8,,415000000
+Mayor subida,Sacyr,SCYR.MC,4.72,4.86,3.01,40.5,,96529000
+Mayor subida,ACS,ACS.MC,130.5,134.3,2.91,35.25,,991340032
+Mayor subida,International Airlines Group,IAG.MC,5.25,5.39,2.71,7.49,,3467000064
+Mayor subida,Acciona Energía,ANE.MC,23.48,24.1,2.64,12.05,,655000000
+Mayor subida,Solaria,SLR.MC,21.97,22.46,2.23,20.42,,164390000
