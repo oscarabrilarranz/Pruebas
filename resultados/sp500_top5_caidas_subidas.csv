@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Apple Inc.,AAPL,293.08,275.15,-6.12,33.31,,122575003648
-Mayor caída,TJX Companies,TJX,165.17,155.19,-6.04,30.19,,5790000128
-Mayor caída,Ross Stores,ROST,228.59,215.13,-5.89,30.09,,2315759104
-Mayor caída,Dell Technologies,DELL,434.06,409.45,-5.67,32.65,,8408999936
-Mayor caída,MSCI Inc.,MSCI,577.29,544.56,-5.67,31.14,,1319704960
-Mayor subida,Sandisk,SNDK,1914.46,2335.0,21.97,79.72,,4506999808
-Mayor subida,Bio-Techne,TECH,58.88,70.7,20.07,101.0,,109499000
-Mayor subida,Micron Technology,MU,1048.51,1213.56,15.74,27.43,,24110999552
-Mayor subida,Applied Materials,AMAT,588.97,668.0,13.42,63.02,,8508000256
-Mayor subida,Corning Inc.,GLW,205.83,228.01,10.78,109.62,,1810000000
+Mayor caída,ON Semiconductor,ON,118.74,90.65,-23.66,66.17,,573699968
+Mayor caída,Western Digital,WDC,675.39,586.45,-13.17,35.16,,6350000128
+Mayor caída,Seagate Technology,STX,1025.36,899.9,-12.24,85.22,,2377999872
+Mayor caída,Sandisk,SNDK,2335.0,2090.71,-10.46,71.62,,4506999808
+Mayor caída,Flex Ltd.,FLEX,161.28,146.7,-9.04,63.23,,880000000
+Mayor subida,Moderna,MRNA,59.75,67.27,12.59,-16.04,,-3193999872
+Mayor subida,FactSet,FDS,208.84,231.74,10.97,14.91,,587793984
+Mayor subida,ServiceNow,NOW,89.52,98.34,9.85,58.54,,1756999936
+Mayor subida,"Workday, Inc.",WDAY,113.77,124.21,9.18,38.69,,847000000
+Mayor subida,Datadog,DDOG,220.94,239.77,8.52,599.42,,135672992
