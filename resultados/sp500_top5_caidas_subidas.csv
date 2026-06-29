@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,ON Semiconductor,ON,118.74,90.65,-23.66,66.17,,573699968
-Mayor caída,Western Digital,WDC,675.39,586.45,-13.17,35.16,,6350000128
-Mayor caída,Seagate Technology,STX,1025.36,899.9,-12.24,85.22,,2377999872
-Mayor caída,Sandisk,SNDK,2335.0,2090.71,-10.46,71.62,,4506999808
-Mayor caída,Flex Ltd.,FLEX,161.28,146.7,-9.04,63.23,,880000000
-Mayor subida,Moderna,MRNA,59.75,67.27,12.59,-16.04,,-3193999872
-Mayor subida,FactSet,FDS,208.84,231.74,10.97,14.91,,587793984
-Mayor subida,ServiceNow,NOW,89.52,98.34,9.85,58.54,,1756999936
-Mayor subida,"Workday, Inc.",WDAY,113.77,124.21,9.18,38.69,,847000000
-Mayor subida,Datadog,DDOG,220.94,239.77,8.52,599.42,,135672992
+Mayor caída,Honeywell,HON,464.42,227.8,-50.95,18.17,,3968000000
+Mayor caída,Supermicro,SMCI,30.63,28.15,-8.1,14.82,,1247389952
+Mayor caída,Copart,CPRT,30.55,28.1,-8.02,17.45,,1553201024
+Mayor caída,Ulta Beauty,ULTA,488.45,459.12,-6.0,17.21,,1188896000
+Mayor caída,Martin Marietta Materials,MLM,616.06,581.23,-5.65,36.42,,965000000
+Mayor subida,Corning Inc.,GLW,221.05,255.69,15.67,122.93,,1810000000
+Mayor subida,KLA Corporation,KLAC,248.64,278.39,11.97,78.86,,4670560768
+Mayor subida,Western Digital,WDC,586.45,651.88,11.16,39.01,,6350000128
+Mayor subida,Applied Materials,AMAT,626.84,694.64,10.82,65.16,,8508000256
+Mayor subida,Axon Enterprise,AXON,464.83,510.6,9.85,207.56,,205988000
