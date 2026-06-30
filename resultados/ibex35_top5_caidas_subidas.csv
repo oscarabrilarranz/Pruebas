@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Cellnex Telecom,CLNX.MC,28.03,26.76,-4.53,-167.25,,-348776000
-Mayor caída,Acerinox,ACX.MC,15.63,15.15,-3.07,10.4,,-45074000
-Mayor caída,ArcelorMittal,MTS.MC,52.52,51.52,-1.9,15.29,,2921999872
-Mayor caída,Telefónica,TEF.MC,3.65,3.59,-1.67,9.14,,-2356000000
-Mayor caída,Ferrovial,FER.MC,60.74,59.84,-1.48,48.65,,868000000
-Mayor subida,Indra,IDR.MC,46.92,48.1,2.51,18.72,,452728992
-Mayor subida,Puig,PUIG.MC,15.94,16.22,1.76,15.45,,593696000
-Mayor subida,Repsol,REP.MC,21.24,21.57,1.55,10.08,,2395000064
-Mayor subida,Acciona,ANA.MC,269.4,273.0,1.34,18.52,,803000000
-Mayor subida,Redeia Corporación,RED.MC,14.82,14.98,1.08,15.94,,490798016
+Mayor caída,Solaria,SLR.MC,21.44,19.91,-7.16,18.1,,164390000
+Mayor caída,AENA,AENA.MC,27.32,26.66,-2.42,18.51,,2164784128
+Mayor caída,Cellnex Telecom,CLNX.MC,26.76,26.15,-2.28,-163.44,,-348776000
+Mayor caída,Telefónica,TEF.MC,3.59,3.52,-2.06,8.95,,-2356000000
+Mayor caída,Laboratorios Rovi [es],ROVI.MC,58.7,57.85,-1.45,22.42,,131820000
+Mayor subida,ArcelorMittal,MTS.MC,51.52,52.74,2.37,15.74,,2921999872
+Mayor subida,Repsol,REP.MC,21.57,22.01,2.04,10.29,,2395000064
+Mayor subida,ACS,ACS.MC,126.3,128.7,1.9,33.78,,991340032
+Mayor subida,Acciona,ANA.MC,273.0,277.2,1.54,18.81,,803000000
+Mayor subida,BBVA,BBVA.MC,21.55,21.87,1.48,12.02,,10405000192
