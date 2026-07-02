@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Corning Inc.,GLW,255.43,220.63,-13.62,106.58,,1810000000
-Mayor caída,KLA Corporation,KLAC,301.71,266.19,-11.77,75.41,,4670560768
-Mayor caída,Teradyne,TER,483.84,427.34,-11.68,79.58,,854059008
-Mayor caída,Sandisk,SNDK,2273.73,2032.22,-10.62,69.29,,4506999808
-Mayor caída,Micron Technology,MU,1154.29,1032.28,-10.57,23.35,,50468999168
-Mayor subida,AppLovin,APP,515.23,564.61,9.58,49.14,,3914972928
-Mayor subida,Coinbase,COIN,146.19,159.24,8.93,58.54,,800601984
-Mayor subida,Meta Platforms,META,563.29,612.91,8.81,22.3,,70586998784
-Mayor subida,General Mills,GIS,34.8,37.77,8.53,9.23,,2203800064
-Mayor subida,Robinhood Markets,HOOD,100.28,108.65,8.35,52.74,,1896999936
+Mayor caída,Sandisk,SNDK,2032.22,1745.0,-14.13,59.64,,4506999808
+Mayor caída,Teradyne,TER,427.34,369.09,-13.63,68.6,,854059008
+Mayor caída,KLA Corporation,KLAC,266.19,235.55,-11.51,66.54,,4670560768
+Mayor caída,Flex Ltd.,FLEX,153.53,136.85,-10.86,58.74,,880000000
+Mayor caída,Corning Inc.,GLW,220.63,196.79,-10.81,95.07,,1810000000
+Mayor subida,Genuine Parts Company,GPC,117.4,132.57,12.92,308.3,,60088000
+Mayor subida,Moderna,MRNA,72.5,79.76,10.01,-19.28,,-3193999872
+Mayor subida,Honeywell Aerospace,HONA,227.29,247.15,8.74,52.03,,2544000000
+Mayor subida,Equifax,EFX,162.17,172.07,6.1,30.29,,698700032
+Mayor subida,Vertex Pharmaceuticals,VRTX,498.01,528.04,6.03,31.37,,4338299904
