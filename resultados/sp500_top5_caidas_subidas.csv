@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Sandisk,SNDK,2032.22,1745.0,-14.13,59.64,,4506999808
-Mayor caída,Teradyne,TER,427.34,369.09,-13.63,68.6,,854059008
-Mayor caída,KLA Corporation,KLAC,266.19,235.55,-11.51,66.54,,4670560768
-Mayor caída,Flex Ltd.,FLEX,153.53,136.85,-10.86,58.74,,880000000
-Mayor caída,Corning Inc.,GLW,220.63,196.79,-10.81,95.07,,1810000000
-Mayor subida,Genuine Parts Company,GPC,117.4,132.57,12.92,308.3,,60088000
+Mayor caída,Sandisk,SNDK,2032.22,1745.0,-14.13,59.52,,4506999808
+Mayor caída,Teradyne,TER,427.34,369.09,-13.63,68.48,,854059008
+Mayor caída,KLA Corporation,KLAC,266.19,235.55,-11.51,66.73,,4670560768
+Mayor caída,Flex Ltd.,FLEX,153.53,136.86,-10.86,58.74,,880000000
+Mayor caída,Corning Inc.,GLW,220.63,196.79,-10.81,94.16,,1810000000
+Mayor subida,Genuine Parts Company,GPC,117.4,132.57,12.92,301.3,,60088000
 Mayor subida,Moderna,MRNA,72.5,79.76,10.01,-19.28,,-3193999872
 Mayor subida,Honeywell Aerospace,HONA,227.29,247.15,8.74,52.03,,2544000000
 Mayor subida,Equifax,EFX,162.17,172.07,6.1,30.29,,698700032
-Mayor subida,Vertex Pharmaceuticals,VRTX,498.01,528.04,6.03,31.37,,4338299904
+Mayor subida,Vertex Pharmaceuticals,VRTX,498.01,528.04,6.03,31.36,,4338299904
