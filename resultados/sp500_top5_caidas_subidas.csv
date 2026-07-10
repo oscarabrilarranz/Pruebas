@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,APA Corporation,APA,35.06,33.29,-5.05,7.76,,1532999936
-Mayor caída,Paramount Skydance Corporation,PSKY,9.75,9.33,-4.31,311.0,,-605000000
-Mayor caída,Costco,COST,953.13,912.97,-4.21,45.83,,8837999616
-Mayor caída,Cincinnati Financial,CINF,181.57,175.43,-3.38,10.04,,2756999936
-Mayor caída,PepsiCo,PEP,142.51,137.86,-3.26,21.64,,8732999680
-Mayor subida,Lumentum,LITE,707.1,785.77,11.13,138.83,,439000000
-Mayor subida,Hewlett Packard Enterprise,HPE,44.67,49.11,9.94,45.9,,1440000000
-Mayor subida,FedEx Freight,FDXF,143.3,154.25,7.64,33.83,,903000000
-Mayor subida,Sandisk,SNDK,1727.18,1858.27,7.59,63.66,,4506999808
-Mayor subida,Norwegian Cruise Line Holdings,NCLH,18.47,19.76,6.98,15.94,,568206976
+Mayor caída,Moderna,MRNA,76.56,68.27,-10.83,-16.46,,-3193999872
+Mayor caída,CrowdStrike,CRWD,198.4,187.18,-5.66,119.86,,-30464000
+Mayor caída,Datadog,DDOG,269.0,257.54,-4.26,677.74,,135672992
+Mayor caída,Fortinet,FTNT,163.73,157.51,-3.8,60.81,,1954499968
+Mayor caída,Gilead Sciences,GILD,134.84,129.83,-3.72,17.66,,9216000000
+Mayor subida,Meta Platforms,META,631.48,669.21,5.97,24.36,,70586998784
+Mayor subida,Weyerhaeuser,WY,22.5,23.45,4.22,41.88,,397000000
+Mayor subida,SBA Communications,SBAC,182.48,190.03,4.14,19.98,,1017729984
+Mayor subida,Nvidia,NVDA,202.78,210.96,4.03,32.31,,159612993536
+Mayor subida,Crown Castle,CCI,76.68,79.66,3.89,33.61,,1039000000
