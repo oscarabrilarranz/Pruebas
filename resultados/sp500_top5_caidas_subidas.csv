@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,AppLovin,APP,506.98,442.85,-12.65,38.48,,3914972928
-Mayor caída,Sandisk,SNDK,1915.92,1673.97,-12.63,57.11,,4506999808
-Mayor caída,Marvell Technology,MRVL,235.81,217.53,-7.75,75.01,,2526700032
-Mayor caída,Oracle Corporation,ORCL,140.64,131.54,-6.47,22.52,,16984000512
-Mayor caída,Intel,INTC,109.84,103.12,-6.12,65.09,,-3174000128
-Mayor subida,FactSet,FDS,247.11,263.11,6.47,17.34,,565969984
-Mayor subida,Gartner,IT,133.24,141.31,6.06,13.95,,740636032
-Mayor subida,Intuit,INTU,274.96,289.76,5.38,17.68,,4584000000
-Mayor subida,Valero Energy,VLO,280.69,295.79,5.38,21.59,,4196000000
-Mayor subida,Phillips 66,PSX,188.36,198.29,5.27,19.61,,4113999872
+Mayor caída,IBM,IBM,290.23,217.07,-25.21,19.23,,10732999680
+Mayor caída,Biogen,BIIB,209.03,191.95,-8.17,20.64,,1371900032
+Mayor caída,HCA Healthcare,HCA,390.74,363.6,-6.95,12.52,,6793999872
+Mayor caída,Intuitive Surgical,ISRG,407.12,379.5,-6.78,46.17,,2979099904
+Mayor caída,Stryker Corporation,SYK,331.45,311.07,-6.15,35.96,,3336999936
+Mayor subida,CrowdStrike,CRWD,187.91,210.73,12.14,134.95,,-30464000
+Mayor subida,Goldman Sachs,GS,1045.91,1140.0,9.0,20.84,,17064999936
+Mayor subida,Carvana,CVNA,64.99,70.38,8.29,40.68,,1440999936
+Mayor subida,Dell Technologies,DELL,427.11,457.54,7.12,36.43,,8408999936
+Mayor subida,Palo Alto Networks,PANW,330.3,352.89,6.84,304.22,,842899968
