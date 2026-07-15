@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,IBM,IBM,290.23,217.07,-25.21,19.23,,10732999680
-Mayor caída,Biogen,BIIB,209.03,191.95,-8.17,20.64,,1371900032
-Mayor caída,HCA Healthcare,HCA,390.74,363.6,-6.95,12.52,,6793999872
-Mayor caída,Intuitive Surgical,ISRG,407.12,379.5,-6.78,46.17,,2979099904
-Mayor caída,Stryker Corporation,SYK,331.45,311.07,-6.15,35.96,,3336999936
-Mayor subida,CrowdStrike,CRWD,187.91,210.73,12.14,134.95,,-30464000
-Mayor subida,Goldman Sachs,GS,1045.91,1140.0,9.0,20.84,,17064999936
-Mayor subida,Carvana,CVNA,64.99,70.38,8.29,40.68,,1440999936
-Mayor subida,Dell Technologies,DELL,427.11,457.54,7.12,36.43,,8408999936
-Mayor subida,Palo Alto Networks,PANW,330.3,352.89,6.84,304.22,,842899968
+Mayor caída,Pentair,PNR,75.68,64.33,-15.0,16.16,,655400000
+Mayor caída,Erie Indemnity,ERIE,238.47,210.19,-11.86,19.27,,571392000
+Mayor caída,Dell Technologies,DELL,457.54,412.68,-9.8,32.91,,8408999936
+Mayor caída,Progressive Corporation,PGR,226.58,205.22,-9.43,10.43,,11559000064
+Mayor caída,Western Digital,WDC,563.32,513.84,-8.78,30.71,,6350000128
+Mayor subida,PayPal,PYPL,47.37,55.52,17.2,10.42,,5058999808
+Mayor subida,BlackRock,BLK,1025.44,1093.4,6.63,27.56,,6255000064
+Mayor subida,CBRE Group,CBRE,133.13,141.41,6.22,32.29,,1312000000
+Mayor subida,Invesco,IVZ,28.73,30.3,5.46,9.5,,-667000000
+Mayor subida,BNY Mellon,BNY,154.5,162.35,5.08,20.14,,5719000064
