@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Pentair,PNR,75.68,64.33,-15.0,16.16,,655400000
-Mayor caída,Erie Indemnity,ERIE,238.47,210.19,-11.86,19.27,,571392000
-Mayor caída,Dell Technologies,DELL,457.54,412.68,-9.8,32.91,,8408999936
-Mayor caída,Progressive Corporation,PGR,226.58,205.22,-9.43,10.43,,11559000064
-Mayor caída,Western Digital,WDC,563.32,513.84,-8.78,30.71,,6350000128
-Mayor subida,PayPal,PYPL,47.37,55.52,17.2,10.42,,5058999808
-Mayor subida,BlackRock,BLK,1025.44,1093.4,6.63,27.56,,6255000064
-Mayor subida,CBRE Group,CBRE,133.13,141.41,6.22,32.29,,1312000000
-Mayor subida,Invesco,IVZ,28.73,30.3,5.46,9.5,,-667000000
-Mayor subida,BNY Mellon,BNY,154.5,162.35,5.08,20.14,,5719000064
+Mayor caída,Sandisk,SNDK,1615.0,1411.08,-12.63,48.28,,4506999808
+Mayor caída,Seagate Technology,STX,828.3,745.49,-10.0,70.86,,2377999872
+Mayor caída,Corning Inc.,GLW,174.41,158.39,-9.19,76.15,,1810000000
+Mayor caída,Western Digital,WDC,513.84,466.81,-9.15,27.95,,6350000128
+Mayor caída,Marvell Technology,MRVL,206.26,188.3,-8.71,64.71,,2526700032
+Mayor subida,Abbott Laboratories,ABT,89.27,98.83,10.71,27.68,,6252000256
+Mayor subida,J.B. Hunt,JBHT,276.28,298.41,8.01,42.39,,674505024
+Mayor subida,FedEx Freight,FDXF,141.8,152.43,7.5,33.5,,903000000
+Mayor subida,Erie Indemnity,ERIE,210.19,225.94,7.49,20.69,,571392000
+Mayor subida,Cintas,CTAS,192.37,206.25,7.22,42.01,,1999968000
