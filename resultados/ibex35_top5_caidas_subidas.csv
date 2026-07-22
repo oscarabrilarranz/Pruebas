@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Amadeus IT Group,AMS.MC,49.88,48.94,-1.88,16.05,,1337400064
-Mayor caída,Cellnex Telecom,CLNX.MC,24.59,24.19,-1.63,-151.19,,-348776000
-Mayor caída,Inmobiliaria Colonial,COL.MC,5.57,5.49,-1.35,9.81,,345448992
-Mayor caída,Naturgy,NTGY.MC,28.76,28.5,-0.9,12.9,,2047000064
-Mayor caída,Logista,LOG.MC,34.64,34.36,-0.81,17.01,,266086000
-Mayor subida,CaixaBank,CABK.MC,12.49,12.91,3.32,15.94,,5712999936
-Mayor subida,Acciona Energía,ANE.MC,21.34,21.84,2.34,10.92,,655000000
-Mayor subida,Unicaja,UNI.MC,3.24,3.31,2.16,13.78,,628505984
-Mayor subida,Banco Sabadell,SAB.MC,3.2,3.27,1.94,14.2,,1104691968
-Mayor subida,Indra,IDR.MC,49.75,50.68,1.87,19.72,,452728992
+Mayor caída,ACS,ACS.MC,117.9,117.1,-0.68,31.14,,991340032
+Mayor caída,International Airlines Group,IAG.MC,5.18,5.15,-0.66,7.15,,3467000064
+Mayor caída,Solaria,SLR.MC,18.05,17.96,-0.5,16.33,,164390000
+Mayor caída,Amadeus IT Group,AMS.MC,48.94,48.72,-0.45,15.97,,1337400064
+Mayor caída,Logista,LOG.MC,34.36,34.24,-0.35,17.03,,266086000
+Mayor subida,Naturgy,NTGY.MC,28.5,29.48,3.44,13.34,,2047000064
+Mayor subida,Cellnex Telecom,CLNX.MC,24.19,24.93,3.06,-155.81,,-348776000
+Mayor subida,Laboratorios Rovi [es],ROVI.MC,54.7,56.2,2.74,21.78,,131820000
+Mayor subida,Enagás,ENG.MC,17.01,17.45,2.59,13.85,,330812000
+Mayor subida,Repsol,REP.MC,24.9,25.48,2.33,11.91,,2395000064
