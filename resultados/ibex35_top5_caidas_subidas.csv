@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,ACS,ACS.MC,114.7,108.9,-5.06,28.96,,991340032
-Mayor caída,Acciona,ANA.MC,247.6,242.6,-2.02,16.47,,803000000
-Mayor caída,Solaria,SLR.MC,18.26,17.92,-1.92,16.29,,164390000
-Mayor caída,Sacyr,SCYR.MC,4.8,4.72,-1.58,39.37,,96529000
-Mayor caída,Acciona Energía,ANE.MC,21.68,21.36,-1.48,10.68,,655000000
-Mayor subida,Indra,IDR.MC,53.36,56.06,5.06,22.33,,440404992
-Mayor subida,Amadeus IT Group,AMS.MC,49.73,51.36,3.28,16.84,,1337400064
-Mayor subida,Logista,LOG.MC,35.0,36.0,2.86,17.82,,277072000
-Mayor subida,Santander,SAN.MC,11.98,12.26,2.3,13.93,,12908000256
-Mayor subida,Fluidra,FDR.MC,18.29,18.66,2.02,20.06,,173840992
+Mayor caída,Solaria,SLR.MC,17.92,17.06,-4.8,15.5,,164390000
+Mayor caída,Merlin Properties,MRL.MC,15.3,14.85,-2.94,10.84,,778897024
+Mayor caída,Banco Sabadell,SAB.MC,3.41,3.34,-2.26,16.68,,909288000
+Mayor caída,Acciona,ANA.MC,242.6,237.8,-1.98,16.12,,803000000
+Mayor caída,Endesa,ELE.MC,40.9,40.25,-1.59,17.89,,2340000000
+Mayor subida,Amadeus IT Group,AMS.MC,51.36,53.06,3.31,17.4,,1337400064
+Mayor subida,Cellnex Telecom,CLNX.MC,26.38,27.21,3.15,-170.06,,-348776000
+Mayor subida,Logista,LOG.MC,36.0,36.92,2.56,18.28,,277072000
+Mayor subida,Inditex,ITX.MC,55.48,56.82,2.42,28.13,,6289999872
+Mayor subida,Indra,IDR.MC,56.06,57.36,2.32,22.85,,440404992
