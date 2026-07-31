@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Fair Isaac,FICO,1373.08,1139.54,-17.01,32.93,,759633984
-Mayor caída,C.H. Robinson,CHRW,173.75,146.92,-15.44,29.8,,599011968
-Mayor caída,Norwegian Cruise Line Holdings,NCLH,20.75,18.72,-9.78,15.1,,568206976
-Mayor caída,Altria,MO,74.92,67.94,-9.32,14.18,,8032999936
-Mayor caída,L3Harris,LHX,297.53,271.9,-8.61,27.44,,1332999936
-Mayor subida,Sandisk,SNDK,1015.89,1279.96,25.99,43.74,,4506999808
-Mayor subida,Emcor,EME,672.48,802.37,19.32,26.93,,1337624064
-Mayor subida,Micron Technology,MU,739.0,874.66,18.36,19.76,,50468999168
-Mayor subida,Lam Research,LRCX,252.35,297.72,17.98,56.17,,6708201984
-Mayor subida,Quanta Services,PWR,561.14,657.98,17.26,90.26,,1104744960
+Mayor caída,GoDaddy,GDDY,99.33,82.74,-16.7,12.29,,910300032
+Mayor caída,Corteva,CTVA,89.34,78.71,-11.9,47.7,,1252000000
+Mayor caída,Coinbase,COIN,163.58,146.26,-10.59,41.45,,-987766016
+Mayor caída,Apple Inc.,AAPL,333.43,308.91,-7.35,35.34,,128929996800
+Mayor caída,Edison International,EIX,78.73,73.37,-6.81,7.57,,3743000064
+Mayor subida,Amazon,AMZN,235.5,271.58,15.32,21.85,,135281000448
+Mayor subida,Dexcom,DXCM,74.54,83.45,11.95,32.98,,999699968
+Mayor subida,Monolithic Power Systems,MPWR,1316.18,1426.03,8.35,86.69,,801945984
+Mayor subida,Eaton Corporation,ETN,386.89,415.2,7.32,40.67,,3988999936
+Mayor subida,Alphabet Inc. (Class C),GOOG,333.68,356.65,6.88,17.9,,244118994944
