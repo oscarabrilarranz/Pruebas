@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Telefónica,TEF.MC,3.66,3.6,-1.72,9.19,,-2524999936
-Mayor caída,Amadeus IT Group,AMS.MC,53.84,53.02,-1.52,17.38,,1337400064
-Mayor caída,Enagás,ENG.MC,17.15,16.92,-1.34,15.38,,289980000
-Mayor caída,Naturgy,NTGY.MC,29.3,28.94,-1.23,13.34,,2091000064
-Mayor caída,Logista,LOG.MC,37.56,37.2,-0.96,18.51,,277072000
-Mayor subida,Sacyr,SCYR.MC,4.57,4.82,5.47,40.2,,96529000
-Mayor subida,BBVA,BBVA.MC,22.82,23.96,5.0,13.16,,10405000192
-Mayor subida,Solaria,SLR.MC,16.52,17.16,3.81,15.6,,164390000
-Mayor subida,Acciona,ANA.MC,243.0,252.2,3.79,17.1,,803000000
-Mayor subida,Acciona Energía,ANE.MC,21.72,22.52,3.68,11.26,,655000000
+Mayor caída,Acciona,ANA.MC,252.2,238.6,-5.39,36.1,,803000000
+Mayor caída,Grifols,GRF.MC,10.39,9.96,-4.05,15.1,,452000000
+Mayor caída,Acciona Energía,ANE.MC,22.52,21.7,-3.64,10.85,,655000000
+Mayor caída,Sacyr,SCYR.MC,4.82,4.7,-2.57,39.17,,133592000
+Mayor caída,Solaria,SLR.MC,17.16,16.82,-1.95,15.29,,164390000
+Mayor subida,Unicaja,UNI.MC,3.25,3.33,2.21,13.86,,628505984
+Mayor subida,ArcelorMittal,MTS.MC,59.5,60.64,1.92,18.05,,1812000000
+Mayor subida,Endesa,ELE.MC,41.7,42.36,1.58,16.68,,2627000064
+Mayor subida,Merlin Properties,MRL.MC,14.86,15.06,1.35,10.24,,852153024
+Mayor subida,Indra,IDR.MC,56.18,56.8,1.1,22.63,,440404992
