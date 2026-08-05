@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Aptiv,APTV,57.23,47.72,-16.62,27.91,,365000000
-Mayor caída,NRG Energy,NRG,138.47,117.04,-15.48,128.62,,172000000
-Mayor caída,Chipotle Mexican Grill,CMG,37.46,33.82,-9.72,31.03,,1419405952
-Mayor caída,Vistra Corp.,VST,155.94,143.23,-8.15,23.99,,2048999936
-Mayor caída,Alexandria Real Estate Equities,ARE,53.03,48.87,-7.84,-55.53,,-1067513984
-Mayor subida,Palantir Technologies,PLTR,125.65,162.66,29.45,180.73,,3016691968
-Mayor subida,Zebra Technologies,ZBRA,291.64,368.83,26.47,44.54,,418000000
-Mayor subida,Gartner,IT,151.53,185.79,22.61,18.36,,740636032
-Mayor subida,Marvell Technology,MRVL,193.78,218.59,12.8,75.12,,2526700032
-Mayor subida,Coherent Corp.,COHR,288.14,323.73,12.35,154.16,,400608992
+Mayor caída,Insulet Corporation,PODD,166.82,133.26,-20.12,31.14,,302800000
+Mayor caída,DaVita,DVA,227.99,188.69,-17.24,15.98,,756416000
+Mayor caída,CDW Corporation,CDW,154.0,140.1,-9.03,17.06,,1077100032
+Mayor caída,Advanced Micro Devices,AMD,518.58,482.05,-7.04,160.15,,4931999744
+Mayor caída,EOG Resources,EOG,143.52,134.23,-6.47,10.45,,5496999936
+Mayor subida,Charles River Laboratories,CRL,234.12,260.72,11.36,21.07,,-184650000
+Mayor subida,International Flavors & Fragrances,IFF,80.89,88.07,8.88,27.27,,826000000
+Mayor subida,Assurant,AIZ,281.31,301.57,7.2,14.43,,991600000
+Mayor subida,Newmont,NEM,97.73,104.29,6.71,13.15,,8597000192
+Mayor subida,Booking Holdings,BKNG,194.27,207.02,6.56,23.03,,6153999872
