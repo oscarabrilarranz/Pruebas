@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Acciona,ANA.MC,231.2,214.6,-7.18,32.47,,360000000
-Mayor caída,Acciona Energía,ANE.MC,21.34,20.76,-2.72,41.52,,182000000
-Mayor caída,Endesa,ELE.MC,42.19,41.58,-1.45,16.37,,2627000064
-Mayor caída,Naturgy,NTGY.MC,28.74,28.38,-1.25,13.08,,2091000064
-Mayor caída,Repsol,REP.MC,26.04,25.74,-1.15,8.36,,3420999936
-Mayor subida,ArcelorMittal,MTS.MC,61.8,64.42,4.24,31.27,,1812000000
-Mayor subida,Amadeus IT Group,AMS.MC,55.32,56.5,2.13,18.65,,1308999936
-Mayor subida,Sacyr,SCYR.MC,4.63,4.71,1.9,39.28,,133592000
-Mayor subida,Indra,IDR.MC,58.58,59.6,1.74,23.75,,440404992
-Mayor subida,Unicaja,UNI.MC,3.37,3.42,1.48,13.7,,649505984
+Mayor caída,Acciona Energía,ANE.MC,20.76,20.14,-2.99,40.28,,182000000
+Mayor caída,Cellnex Telecom,CLNX.MC,26.6,25.87,-2.74,2086.29,,-343035008
+Mayor caída,Acciona,ANA.MC,214.6,209.0,-2.61,31.62,,360000000
+Mayor caída,Solaria,SLR.MC,16.37,16.03,-2.08,14.57,,164390000
+Mayor caída,Repsol,REP.MC,25.74,25.35,-1.52,8.23,,3420999936
+Mayor subida,Indra,IDR.MC,59.6,61.42,3.05,24.47,,440404992
+Mayor subida,Puig,PUIG.MC,16.58,17.0,2.53,16.5,,581502976
+Mayor subida,Fluidra,FDR.MC,19.85,20.26,2.07,23.02,,166384000
+Mayor subida,Amadeus IT Group,AMS.MC,56.5,57.56,1.88,19.0,,1308999936
+Mayor subida,International Airlines Group,IAG.MC,5.1,5.18,1.57,8.09,,3073999872
