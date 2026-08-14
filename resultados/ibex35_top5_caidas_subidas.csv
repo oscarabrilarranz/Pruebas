@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Acciona,ANA.MC,215.0,210.6,-2.05,31.81,,360000000
-Mayor caída,Solaria,SLR.MC,16.61,16.3,-1.9,14.81,,164390000
-Mayor caída,Ferrovial,FER.MC,57.22,56.3,-1.61,67.83,,592000000
-Mayor caída,Iberdrola,IBE.MC,20.6,20.3,-1.46,25.37,,5575000064
-Mayor caída,Amadeus IT Group,AMS.MC,57.26,56.56,-1.22,18.67,,1308999936
-Mayor subida,Banco Sabadell,SAB.MC,3.55,3.59,1.07,17.95,,909288000
-Mayor subida,AENA,AENA.MC,26.56,26.84,1.05,18.01,,2244878080
-Mayor subida,Grifols,GRF.MC,10.07,10.15,0.74,15.38,,452000000
-Mayor subida,Acerinox,ACX.MC,18.14,18.27,0.72,83.05,,54071000
-Mayor subida,Telefónica,TEF.MC,3.64,3.67,0.71,9.36,,-2524999936
+Mayor caída,Grifols,GRF.MC,10.15,9.86,-2.86,14.94,,452000000
+Mayor caída,AENA,AENA.MC,26.84,26.38,-1.71,17.7,,2244878080
+Mayor caída,Ferrovial,FER.MC,56.3,55.5,-1.42,66.87,,592000000
+Mayor caída,Acerinox,ACX.MC,18.27,18.09,-0.99,82.23,,54071000
+Mayor caída,Sacyr,SCYR.MC,4.54,4.5,-0.88,26.45,,133592000
+Mayor subida,Banco Sabadell,SAB.MC,3.59,3.64,1.5,18.22,,909288000
+Mayor subida,Amadeus IT Group,AMS.MC,56.56,57.4,1.49,18.94,,1308999936
+Mayor subida,Repsol,REP.MC,26.49,26.79,1.13,8.59,,3420999936
+Mayor subida,Unicaja,UNI.MC,3.58,3.62,1.06,14.47,,649486016
+Mayor subida,Mapfre,MAP.MC,4.4,4.44,0.96,11.38,,1182899968
