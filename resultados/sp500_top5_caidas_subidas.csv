@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,"Tapestry, Inc.",TPR,153.74,128.39,-16.49,39.26,,662800000
-Mayor caída,Cisco,CSCO,123.88,113.47,-8.4,34.08,,11957999616
-Mayor caída,Coherent Corp.,COHR,355.64,327.23,-7.99,79.23,,400608992
-Mayor caída,Lumentum,LITE,932.47,880.41,-5.58,27.94,,439000000
-Mayor caída,Corning Inc.,GLW,167.44,158.54,-5.32,72.72,,1900000000
-Mayor subida,"Workday, Inc.",WDAY,175.29,206.45,17.78,64.31,,847000000
-Mayor subida,Sandisk,SNDK,1344.29,1528.11,13.67,20.71,,11432999936
-Mayor subida,GoDaddy,GDDY,91.82,100.5,9.45,14.93,,910300032
-Mayor subida,CoStar Group,CSGP,30.5,33.05,8.36,183.61,,74000000
-Mayor subida,Trade Desk (The),TTD,13.49,14.56,7.93,17.33,,406888000
+Mayor caída,Broadcom,AVGO,417.82,392.99,-5.94,65.28,,29316999168
+Mayor caída,GoDaddy,GDDY,100.5,94.91,-5.56,14.1,,910300032
+Mayor caída,Applied Materials,AMAT,534.54,507.18,-5.12,43.72,,8508000256
+Mayor caída,Robinhood Markets,HOOD,99.37,95.56,-3.83,42.28,,2072000000
+Mayor caída,CrowdStrike,CRWD,225.53,216.95,-3.8,138.53,,-30464000
+Mayor subida,Copart,CPRT,29.39,31.61,7.55,19.63,,1553201024
+Mayor subida,Sandisk,SNDK,1528.11,1641.11,7.39,22.23,,11432999936
+Mayor subida,Advanced Micro Devices,AMD,483.01,514.39,6.5,131.56,,6469000192
+Mayor subida,Fox Corporation (Class B),FOX,58.1,61.41,5.7,15.99,,1684999936
+Mayor subida,Seagate Technology,STX,921.37,973.44,5.65,69.98,,3184000000
