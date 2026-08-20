@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Seagate Technology,STX,903.68,832.56,-7.87,59.81,,3184000000
-Mayor caída,Steel Dynamics,STLD,249.81,231.01,-7.53,20.96,,1607240960
-Mayor caída,Western Digital,WDC,496.16,462.09,-6.87,17.15,,9285999616
-Mayor caída,Dell Technologies,DELL,468.65,437.55,-6.64,34.84,,8408999936
-Mayor caída,Lam Research,LRCX,327.92,307.17,-6.33,53.24,,7265396224
-Mayor subida,Moderna,MRNA,62.96,174.38,176.97,-35.62,,-3151000064
-Mayor subida,Estée Lauder Companies (The),EL,84.27,98.01,16.3,25.56,,-248000000
-Mayor subida,Merck & Co.,MRK,135.17,152.2,12.6,122.74,,3172999936
-Mayor subida,Alexandria Real Estate Equities,ARE,45.84,50.55,10.27,-62.41,,-1030056000
-Mayor subida,Marvell Technology,MRVL,216.0,237.27,9.85,81.26,,2526700032
+Mayor caída,Moderna,MRNA,174.38,133.32,-23.55,-29.09,,-3151000064
+Mayor caída,Walmart,WMT,114.3,103.84,-9.15,36.69,,22735998976
+Mayor caída,Intuitive Surgical,ISRG,397.72,374.48,-5.84,42.99,,3138800128
+Mayor caída,CrowdStrike,CRWD,201.63,190.34,-5.6,121.43,,-30464000
+Mayor caída,Steel Dynamics,STLD,231.01,219.0,-5.2,19.89,,1607240960
+Mayor subida,Nordson Corporation,NDSN,309.92,334.7,8.0,35.8,,528116000
+Mayor subida,Coinbase,COIN,160.2,172.35,7.58,57.11,,-987766016
+Mayor subida,Deere & Company,DE,580.63,620.94,6.94,35.18,,4783000064
+Mayor subida,Lumentum,LITE,827.6,879.28,6.24,26.63,,-6935099904
+Mayor subida,Qnity Electronics,Q,126.04,133.52,5.93,47.69,,586000000
