@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Marvell Technology,MRVL,251.01,237.04,-5.57,81.46,,2526700032
-Mayor caída,Sempra,SRE,87.38,82.89,-5.14,24.03,,2262000128
-Mayor caída,Edison International,EIX,74.66,71.59,-4.11,7.39,,3744000000
-Mayor caída,American Electric Power,AEP,125.7,120.94,-3.79,20.96,,3140999936
-Mayor caída,CenterPoint Energy,CNP,40.2,38.77,-3.56,23.08,,1116999936
-Mayor subida,Robinhood Markets,HOOD,95.1,108.13,13.7,47.85,,2072000000
-Mayor subida,Moderna,MRNA,133.32,145.13,8.86,-31.69,,-3151000064
-Mayor subida,Coinbase,COIN,172.35,186.49,8.2,61.79,,-987766016
-Mayor subida,Freeport-McMoRan,FCX,71.22,76.66,7.64,37.58,,2936000000
-Mayor subida,Albemarle Corporation,ALB,134.19,143.25,6.75,530.56,,57427000
+Mayor caída,Seagate Technology,STX,850.0,794.65,-6.51,3056.35,,3184000000
+Mayor caída,Sandisk,SNDK,1596.08,1493.12,-6.45,20.25,,11432999936
+Mayor caída,Ciena,CIEN,395.79,371.95,-6.02,123.57,,438300000
+Mayor caída,Micron Technology,MU,966.78,910.43,-5.83,20.56,,50468999168
+Mayor caída,J.B. Hunt,JBHT,275.45,259.88,-5.65,37.02,,674505024
+Mayor subida,Expedia Group,EXPE,321.63,339.12,5.44,21.34,,2036000000
+Mayor subida,Dollar Tree,DLTR,131.48,136.75,4.01,21.95,,1259100032
+Mayor subida,Church & Dwight,CHD,98.8,102.53,3.78,32.86,,744800000
+Mayor subida,Altria,MO,66.09,68.47,3.6,14.41,,7952000000
+Mayor subida,GoDaddy,GDDY,97.07,100.52,3.55,14.94,,910300032
