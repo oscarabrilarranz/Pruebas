@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Seagate Technology,STX,850.0,794.65,-6.51,3056.35,,3184000000
-Mayor caída,Sandisk,SNDK,1596.08,1493.12,-6.45,20.25,,11432999936
-Mayor caída,Ciena,CIEN,395.79,371.95,-6.02,123.57,,438300000
-Mayor caída,Micron Technology,MU,966.78,910.43,-5.83,20.56,,50468999168
-Mayor caída,J.B. Hunt,JBHT,275.45,259.88,-5.65,37.02,,674505024
-Mayor subida,Expedia Group,EXPE,321.63,339.12,5.44,21.34,,2036000000
-Mayor subida,Dollar Tree,DLTR,131.48,136.75,4.01,21.95,,1259100032
-Mayor subida,Church & Dwight,CHD,98.8,102.53,3.78,32.86,,744800000
-Mayor subida,Altria,MO,66.09,68.47,3.6,14.41,,7952000000
-Mayor subida,GoDaddy,GDDY,97.07,100.52,3.55,14.94,,910300032
+Mayor caída,Albemarle Corporation,ALB,141.51,133.18,-5.89,493.26,,57427000
+Mayor caída,Dow Inc.,DOW,31.44,30.16,-4.07,16.58,,-1300999936
+Mayor caída,LyondellBasell,LYB,65.2,62.55,-4.06,9.75,,-265000000
+Mayor caída,Erie Indemnity,ERIE,268.64,257.98,-3.97,23.41,,577001024
+Mayor caída,Target Corporation,TGT,169.89,163.47,-3.78,16.98,,4392000000
+Mayor subida,Moderna,MRNA,138.89,158.83,14.36,-34.75,,-3151000064
+Mayor subida,Supermicro,SMCI,35.17,38.46,9.35,11.8,,2195842048
+Mayor subida,Robinhood Markets,HOOD,103.62,112.09,8.17,49.6,,2072000000
+Mayor subida,CDW Corporation,CDW,132.51,142.09,7.23,17.08,,1080300032
+Mayor subida,Lumentum,LITE,830.17,885.57,6.67,26.82,,-6935099904
