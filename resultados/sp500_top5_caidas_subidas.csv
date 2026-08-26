@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Albemarle Corporation,ALB,141.51,133.18,-5.89,493.26,,57427000
-Mayor caída,Dow Inc.,DOW,31.44,30.16,-4.07,16.58,,-1300999936
-Mayor caída,LyondellBasell,LYB,65.2,62.55,-4.06,9.75,,-265000000
-Mayor caída,Erie Indemnity,ERIE,268.64,257.98,-3.97,23.41,,577001024
-Mayor caída,Target Corporation,TGT,169.89,163.47,-3.78,16.98,,4392000000
-Mayor subida,Moderna,MRNA,138.89,158.83,14.36,-34.75,,-3151000064
-Mayor subida,Supermicro,SMCI,35.17,38.46,9.35,11.8,,2195842048
-Mayor subida,Robinhood Markets,HOOD,103.62,112.09,8.17,49.6,,2072000000
-Mayor subida,CDW Corporation,CDW,132.51,142.09,7.23,17.08,,1080300032
-Mayor subida,Lumentum,LITE,830.17,885.57,6.67,26.82,,-6935099904
+Mayor caída,Moderna,MRNA,158.83,149.66,-5.77,-32.47,,-3151000064
+Mayor caída,Reddit,RDDT,162.45,155.36,-4.36,36.13,,871094976
+Mayor caída,GoDaddy,GDDY,99.79,95.54,-4.26,14.2,,910300032
+Mayor caída,Lilly (Eli),LLY,1233.66,1189.41,-3.59,40.01,,26710999040
+Mayor caída,Boston Scientific,BSX,49.86,48.17,-3.39,19.5,,3673999872
+Mayor subida,Lumentum,LITE,885.57,939.03,6.04,28.44,,-6935099904
+Mayor subida,Arista Networks,ANET,190.94,202.25,5.92,64.21,,4044600064
+Mayor subida,C.H. Robinson,CHRW,143.66,151.73,5.62,28.96,,633326976
+Mayor subida,Williams Companies,WMB,71.08,74.41,4.68,29.65,,3070000128
+Mayor subida,"F5, Inc.",FFIV,382.75,399.59,4.4,31.84,,726510016
