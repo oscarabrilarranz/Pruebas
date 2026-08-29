@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Hormel Foods,HRL,23.71,21.28,-10.25,25.04,,466879008
-Mayor caída,Casey's,CASY,807.12,763.38,-5.42,39.9,,714448000
-Mayor caída,"Tapestry, Inc.",TPR,130.25,123.24,-5.38,16.95,,1527699968
-Mayor caída,Moderna,MRNA,149.66,142.77,-4.6,-30.58,,-3151000064
-Mayor caída,Generac,GNRC,206.62,197.29,-4.52,45.25,,258195008
-Mayor subida,Salesforce,CRM,205.62,252.05,22.58,23.08,,8023000064
-Mayor subida,CrowdStrike,CRWD,189.18,227.96,20.5,3256.57,,-30464000
-Mayor subida,Veeva Systems,VEEV,244.91,282.13,15.2,46.25,,941651968
-Mayor subida,Synopsys,SNPS,410.0,464.89,13.39,80.99,,773267968
-Mayor subida,Palo Alto Networks,PANW,339.31,382.85,12.83,294.5,,842899968
+Mayor caída,PayPal,PYPL,61.47,53.66,-12.71,10.14,,4902000128
+Mayor caída,Marvell Technology,MRVL,241.45,216.62,-10.28,71.73,,2639899904
+Mayor caída,PG&E Corporation,PCG,17.95,16.6,-7.52,11.94,,3056000000
+Mayor caída,Generac,GNRC,197.29,183.8,-6.84,42.35,,258195008
+Mayor caída,Lumentum,LITE,956.14,895.0,-6.39,27.11,,-6935099904
+Mayor subida,"Workday, Inc.",WDAY,193.57,204.72,5.76,41.61,,1251000064
+Mayor subida,Domino's,DPZ,332.06,350.0,5.4,19.85,,596523008
+Mayor subida,Lululemon Athletica,LULU,115.0,120.81,5.05,9.78,,1459659008
+Mayor subida,ServiceNow,NOW,138.43,144.71,4.54,89.88,,1670000000
+Mayor subida,Schlumberger,SLB,55.01,57.33,4.22,27.97,,3100999936
