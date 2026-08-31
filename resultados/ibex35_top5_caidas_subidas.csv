@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,ACS,ACS.MC,103.6,,,27.21,,1010313984
-Mayor caída,Acerinox,ACX.MC,17.84,,,81.23,,54071000
-Mayor caída,Amadeus IT Group,AMS.MC,58.2,,,19.19,,1308999936
-Mayor caída,Acciona,ANA.MC,211.8,,,31.98,,360000000
-Mayor caída,Acciona Energía,ANE.MC,21.58,,,43.16,,182000000
-Mayor subida,ACS,ACS.MC,103.6,,,27.21,,1010313984
-Mayor subida,Acerinox,ACX.MC,17.84,,,81.23,,54071000
-Mayor subida,Amadeus IT Group,AMS.MC,58.2,,,19.19,,1308999936
-Mayor subida,Acciona,ANA.MC,211.8,,,31.98,,360000000
-Mayor subida,Acciona Energía,ANE.MC,21.58,,,43.16,,182000000
+Mayor caída,Solaria,SLR.MC,17.4,16.96,-2.53,15.42,,164390000
+Mayor caída,International Airlines Group,IAG.MC,5.12,5.01,-2.11,7.83,,3073999872
+Mayor caída,Indra,IDR.MC,62.5,61.2,-2.08,24.78,,440404992
+Mayor caída,Sacyr,SCYR.MC,4.3,4.24,-1.4,24.93,,133592000
+Mayor caída,ACS,ACS.MC,103.4,102.1,-1.26,26.8,,1010313984
+Mayor subida,Repsol,REP.MC,26.6,27.25,2.44,8.85,,3420999936
+Mayor subida,Cellnex Telecom,CLNX.MC,26.24,26.48,0.91,-1305.08,,-343035008
+Mayor subida,Enagás,ENG.MC,16.72,16.85,0.78,15.32,,289980000
+Mayor subida,Telefónica,TEF.MC,3.62,3.65,0.72,9.32,,-2524999936
+Mayor subida,Logista,LOG.MC,35.9,36.12,0.61,17.2,,277072000
