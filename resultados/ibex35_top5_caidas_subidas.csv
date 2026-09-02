@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Amadeus IT Group,AMS.MC,58.22,56.1,-3.64,18.51,,1308999936
-Mayor caída,Cellnex Telecom,CLNX.MC,26.48,25.59,-3.36,-1261.21,,-343035008
-Mayor caída,Acciona,ANA.MC,209.6,204.0,-2.67,30.82,,360000000
-Mayor caída,Fluidra,FDR.MC,19.44,18.94,-2.57,21.52,,166384000
-Mayor caída,Inmobiliaria Colonial,COL.MC,5.32,5.22,-1.79,9.85,,325022016
-Mayor subida,Repsol,REP.MC,27.25,27.99,2.72,9.09,,3420999936
-Mayor subida,Grifols,GRF.MC,9.83,9.93,0.96,15.04,,452000000
-Mayor subida,Unicaja,UNI.MC,3.53,3.56,0.96,14.26,,649486016
-Mayor subida,Naturgy,NTGY.MC,29.46,29.52,0.2,13.6,,2091000064
-Mayor subida,Solaria,SLR.MC,16.96,16.95,-0.06,15.41,,164390000
+Mayor caída,ACS,ACS.MC,101.8,98.55,-3.19,25.87,,1010313984
+Mayor caída,Solaria,SLR.MC,16.95,16.52,-2.51,15.02,,164390000
+Mayor caída,Inditex,ITX.MC,57.5,56.16,-2.33,27.8,,6289999872
+Mayor caída,Acciona,ANA.MC,204.0,199.5,-2.21,30.09,,360000000
+Mayor caída,Endesa,ELE.MC,42.02,41.14,-2.09,16.2,,2627000064
+Mayor subida,CaixaBank,CABK.MC,13.08,13.22,1.03,15.73,,5855000064
+Mayor subida,Santander,SAN.MC,12.58,12.71,1.02,14.45,,12899999744
+Mayor subida,BBVA,BBVA.MC,24.86,25.09,0.93,13.28,,10718000128
+Mayor subida,ArcelorMittal,MTS.MC,63.76,64.28,0.82,31.36,,1812000000
+Mayor subida,Unicaja,UNI.MC,3.56,3.59,0.73,14.36,,649486016
