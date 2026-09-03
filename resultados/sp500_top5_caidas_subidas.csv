@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Palo Alto Networks,PANW,362.09,328.48,-9.28,283.17,,842899968
-Mayor caída,Datadog,DDOG,223.84,209.23,-6.53,427.0,,177584000
-Mayor caída,Edison International,EIX,58.8,55.19,-6.14,5.7,,3744000000
-Mayor caída,Palantir Technologies,PLTR,179.92,169.46,-5.81,144.84,,3016691968
-Mayor caída,CrowdStrike,CRWD,215.07,203.42,-5.42,5085.5,,44995000
-Mayor subida,Dell Technologies,DELL,425.0,492.2,15.81,39.25,,8408999936
-Mayor subida,Reddit,RDDT,144.64,158.1,9.31,36.77,,871094976
-Mayor subida,Charter Communications,CHTR,146.19,158.97,8.74,4.14,,4924000256
-Mayor subida,Skyworks Solutions,SWKS,67.41,71.67,6.32,37.13,,290100000
-Mayor subida,"Block, Inc.",XYZ,77.88,82.46,5.88,147.25,,357142016
+Mayor caída,Ciena,CIEN,354.16,317.46,-10.36,105.47,,438300000
+Mayor caída,Tyson Foods,TSN,55.81,51.76,-7.26,31.95,,574000000
+Mayor caída,Charter Communications,CHTR,158.97,151.38,-4.77,3.94,,4924000256
+Mayor caída,Albemarle Corporation,ALB,137.75,132.16,-4.06,472.0,,57427000
+Mayor caída,General Mills,GIS,40.58,39.26,-3.25,12.24,,-87600000
+Mayor subida,Robinhood Markets,HOOD,106.99,124.72,16.57,55.19,,2072000000
+Mayor subida,Coinbase,COIN,174.96,192.7,10.14,70.38,,-987766016
+Mayor subida,Palantir Technologies,PLTR,169.46,182.53,7.71,156.01,,3016691968
+Mayor subida,ServiceNow,NOW,136.72,145.59,6.49,90.99,,1670000000
+Mayor subida,Principal Financial Group,PFG,111.31,118.51,6.47,16.88,,1558800000
