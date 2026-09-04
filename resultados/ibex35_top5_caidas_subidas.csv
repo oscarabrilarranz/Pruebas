@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Indra,IDR.MC,60.28,58.9,-2.29,23.47,,440404992
-Mayor caída,Naturgy,NTGY.MC,29.6,29.3,-1.01,13.5,,2091000064
-Mayor caída,Laboratorios Rovi [es],ROVI.MC,59.9,59.55,-0.58,16.45,,185182000
-Mayor caída,Logista,LOG.MC,35.38,35.18,-0.57,16.75,,277072000
-Mayor caída,Enagás,ENG.MC,16.59,16.5,-0.54,15.0,,289980000
-Mayor subida,Acerinox,ACX.MC,17.61,18.11,2.84,82.32,,54071000
-Mayor subida,Sacyr,SCYR.MC,4.16,4.26,2.4,25.07,,133592000
-Mayor subida,CaixaBank,CABK.MC,13.22,13.52,2.35,16.1,,5855000064
-Mayor subida,Bankinter,BKT.MC,16.53,16.91,2.27,13.75,,1150017024
-Mayor subida,ACS,ACS.MC,98.55,100.7,2.18,26.5,,1010313984
+Mayor caída,Repsol,REP.MC,28.34,27.74,-2.12,9.01,,3420999936
+Mayor caída,Cellnex Telecom,CLNX.MC,25.99,25.66,-1.27,1084.99,,-343035008
+Mayor caída,Acciona Energía,ANE.MC,21.44,21.2,-1.12,42.4,,182000000
+Mayor caída,Mapfre,MAP.MC,4.54,4.51,-0.7,11.56,,1182899968
+Mayor caída,Laboratorios Rovi [es],ROVI.MC,59.55,59.3,-0.42,16.38,,185182000
+Mayor subida,ArcelorMittal,MTS.MC,65.58,67.22,2.5,32.79,,1812000000
+Mayor subida,Naturgy,NTGY.MC,29.3,29.74,1.5,13.71,,2091000064
+Mayor subida,ACS,ACS.MC,100.7,102.1,1.39,26.8,,1010313984
+Mayor subida,Acerinox,ACX.MC,18.11,18.36,1.38,83.45,,54071000
+Mayor subida,Solaria,SLR.MC,16.6,16.82,1.33,15.29,,164390000
