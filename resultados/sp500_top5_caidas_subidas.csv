@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Howmet Aerospace,HWM,259.27,231.53,-10.7,49.9,,1870000000
-Mayor caída,Amgen,AMGN,437.23,393.17,-10.08,24.44,,8743000064
-Mayor caída,Stryker Corporation,SYK,303.13,276.43,-8.81,28.68,,3728999936
-Mayor caída,GoDaddy,GDDY,101.31,92.88,-8.32,13.8,,910300032
-Mayor caída,Expedia Group,EXPE,298.04,274.55,-7.88,17.25,,2036000000
-Mayor subida,Lumentum,LITE,881.26,978.53,11.04,29.38,,-6935099904
-Mayor subida,Intel,INTC,95.8,104.47,9.05,51.16,,-11288999936
-Mayor subida,Hewlett Packard Enterprise,HPE,52.0,56.03,7.75,28.88,,2675000064
-Mayor subida,Corning Inc.,GLW,154.3,165.96,7.56,76.13,,1900000000
-Mayor subida,Coherent Corp.,COHR,281.86,301.88,7.1,73.27,,769896000
+Mayor caída,Casey's,CASY,733.49,629.03,-14.24,32.83,,772812992
+Mayor caída,Vertiv,VRT,290.83,262.89,-9.61,59.48,,1732000000
+Mayor caída,Charter Communications,CHTR,145.74,133.89,-8.13,3.48,,4924000256
+Mayor caída,Comcast,CMCSA,26.33,24.59,-6.61,7.88,,11198999552
+Mayor caída,Cooper Companies (The),COO,67.69,63.48,-6.22,53.8,,235800000
+Mayor subida,Datadog,DDOG,210.23,225.27,7.15,450.54,,177584000
+Mayor subida,Meta Platforms,META,613.48,653.69,6.55,24.61,,68097998848
+Mayor subida,Fair Isaac,FICO,933.3,983.19,5.35,28.47,,815017024
+Mayor subida,Hewlett Packard Enterprise,HPE,56.03,58.9,5.12,30.36,,2675000064
+Mayor subida,HCA Healthcare,HCA,402.02,421.83,4.93,14.14,,6840000000
