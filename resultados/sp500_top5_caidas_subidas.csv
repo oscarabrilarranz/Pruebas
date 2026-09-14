@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Albemarle Corporation,ALB,122.11,117.52,-3.76,435.26,,57427000
-Mayor caída,Seagate Technology,STX,862.33,830.17,-3.73,59.81,,3184000000
-Mayor caída,Sandisk,SNDK,1692.59,1633.35,-3.5,22.13,,11432999936
-Mayor caída,Western Digital,WDC,460.93,447.18,-2.98,16.61,,9285999616
-Mayor caída,Edwards Lifesciences,EW,86.77,84.37,-2.77,50.22,,979900032
-Mayor subida,Hewlett Packard Enterprise,HPE,55.22,62.09,12.44,32.01,,2675000064
-Mayor subida,Dell Technologies,DELL,506.62,567.29,11.98,33.04,,11377999872
-Mayor subida,NetApp,NTAP,183.6,199.28,8.54,28.11,,1418000000
-Mayor subida,ON Semiconductor,ON,70.17,76.14,8.51,49.76,,630200000
-Mayor subida,HP Inc.,HPQ,32.73,35.48,8.4,13.54,,2451000064
+Mayor caída,Corning Inc.,GLW,166.4,143.6,-13.7,66.48,,1900000000
+Mayor caída,Teradyne,TER,379.72,329.2,-13.3,45.16,,1150220032
+Mayor caída,Coherent Corp.,COHR,305.37,266.5,-12.73,64.68,,769896000
+Mayor caída,Hewlett Packard Enterprise,HPE,62.09,55.41,-10.76,28.56,,2675000064
+Mayor caída,Skyworks Solutions,SWKS,88.35,79.26,-10.29,41.07,,290100000
+Mayor subida,CrowdStrike,CRWD,206.74,235.38,13.85,5884.5,,44995000
+Mayor subida,Palo Alto Networks,PANW,330.65,373.94,13.09,934.85,,307000000
+Mayor subida,Gartner,IT,179.59,197.07,9.73,17.72,,775350976
+Mayor subida,Coinbase,COIN,175.26,191.45,9.24,69.73,,-987766016
+Mayor subida,Fortinet,FTNT,156.07,170.18,9.04,60.35,,2120700032
