@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Corning Inc.,GLW,166.4,143.6,-13.7,66.48,,1900000000
-Mayor caída,Teradyne,TER,379.72,329.2,-13.3,45.16,,1150220032
-Mayor caída,Coherent Corp.,COHR,305.37,266.5,-12.73,64.68,,769896000
-Mayor caída,Hewlett Packard Enterprise,HPE,62.09,55.41,-10.76,28.56,,2675000064
-Mayor caída,Skyworks Solutions,SWKS,88.35,79.26,-10.29,41.07,,290100000
-Mayor subida,CrowdStrike,CRWD,206.74,235.38,13.85,5884.5,,44995000
-Mayor subida,Palo Alto Networks,PANW,330.65,373.94,13.09,934.85,,307000000
-Mayor subida,Gartner,IT,179.59,197.07,9.73,17.72,,775350976
-Mayor subida,Coinbase,COIN,175.26,191.45,9.24,69.73,,-987766016
-Mayor subida,Fortinet,FTNT,156.07,170.18,9.04,60.35,,2120700032
+Mayor caída,Coinbase,COIN,191.45,172.11,-10.1,61.68,,-987766016
+Mayor caída,Axon Enterprise,AXON,490.18,442.08,-9.81,184.2,,199298000
+Mayor caída,Jack Henry & Associates,JKHY,164.55,154.07,-6.37,22.07,,502776000
+Mayor caída,Chipotle Mexican Grill,CMG,37.03,34.83,-5.94,32.25,,1419405952
+Mayor caída,Carvana,CVNA,70.87,66.9,-5.6,35.4,,1568000000
+Mayor subida,Skyworks Solutions,SWKS,79.26,90.0,13.55,46.63,,290100000
+Mayor subida,Revvity,RVTY,128.49,140.19,9.11,67.4,,237366000
+Mayor subida,APA Corporation,APA,45.03,47.41,5.29,10.0,,1676999936
+Mayor subida,"F5, Inc.",FFIV,411.49,430.88,4.71,34.33,,726510016
+Mayor subida,Ciena,CIEN,319.64,334.33,4.6,74.79,,654409984
