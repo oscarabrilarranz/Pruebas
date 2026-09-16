@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Solaria,SLR.MC,16.87,16.49,-2.28,14.99,,164390000
-Mayor caída,Puig,PUIG.MC,17.49,17.11,-2.17,16.61,,581502976
-Mayor caída,Inditex,ITX.MC,53.72,52.58,-2.12,25.52,,6408999936
-Mayor caída,Amadeus IT Group,AMS.MC,55.02,54.04,-1.78,17.83,,1308999936
-Mayor caída,Santander,SAN.MC,12.77,12.67,-0.83,14.39,,12899999744
-Mayor subida,Acciona Energía,ANE.MC,20.52,21.44,4.48,42.88,,182000000
-Mayor subida,Repsol,REP.MC,28.5,29.38,3.09,9.54,,3420999936
-Mayor subida,Acciona,ANA.MC,196.4,202.0,2.85,30.51,,360000000
-Mayor subida,Acerinox,ACX.MC,17.17,17.6,2.5,80.0,,54071000
-Mayor subida,Endesa,ELE.MC,41.36,42.22,2.08,16.62,,2627000064
+Mayor caída,Grifols,GRF.MC,9.67,9.56,-1.1,14.48,,452000000
+Mayor caída,Puig,PUIG.MC,17.11,16.94,-0.99,16.45,,581502976
+Mayor caída,BBVA,BBVA.MC,24.9,24.72,-0.72,13.08,,10718000128
+Mayor caída,Repsol,REP.MC,29.38,29.19,-0.65,9.48,,3420999936
+Mayor caída,CaixaBank,CABK.MC,13.16,13.08,-0.61,15.57,,5855000064
+Mayor subida,Solaria,SLR.MC,16.49,17.22,4.43,15.65,,164390000
+Mayor subida,Amadeus IT Group,AMS.MC,54.04,55.48,2.66,18.31,,1308999936
+Mayor subida,ArcelorMittal,MTS.MC,63.26,64.68,2.24,31.4,,1812000000
+Mayor subida,Acciona,ANA.MC,202.0,206.4,2.18,31.13,,360000000
+Mayor subida,ACS,ACS.MC,91.45,93.35,2.08,24.57,,1010313984
