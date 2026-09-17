@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Grifols,GRF.MC,9.67,9.56,-1.1,14.48,,452000000
-Mayor caída,Puig,PUIG.MC,17.11,16.94,-0.99,16.45,,581502976
-Mayor caída,BBVA,BBVA.MC,24.9,24.72,-0.72,13.08,,10718000128
-Mayor caída,Repsol,REP.MC,29.38,29.19,-0.65,9.48,,3420999936
-Mayor caída,CaixaBank,CABK.MC,13.16,13.08,-0.61,15.57,,5855000064
-Mayor subida,Solaria,SLR.MC,16.49,17.22,4.43,15.65,,164390000
-Mayor subida,Amadeus IT Group,AMS.MC,54.04,55.48,2.66,18.31,,1308999936
-Mayor subida,ArcelorMittal,MTS.MC,63.26,64.68,2.24,31.4,,1812000000
-Mayor subida,Acciona,ANA.MC,202.0,206.4,2.18,31.13,,360000000
-Mayor subida,ACS,ACS.MC,91.45,93.35,2.08,24.57,,1010313984
+Mayor caída,Cellnex Telecom,CLNX.MC,25.44,25.07,-1.45,1060.04,,-343035008
+Mayor caída,Inditex,ITX.MC,52.78,52.4,-0.72,25.56,,6408999936
+Mayor caída,Sacyr,SCYR.MC,4.19,4.17,-0.57,24.52,,133592000
+Mayor caída,CaixaBank,CABK.MC,13.08,13.01,-0.57,15.48,,5855000064
+Mayor caída,Ferrovial,FER.MC,47.91,47.64,-0.56,57.4,,592000000
+Mayor subida,Mapfre,MAP.MC,4.43,4.55,2.62,11.66,,1182899968
+Mayor subida,Santander,SAN.MC,12.69,12.95,2.06,14.72,,12899999744
+Mayor subida,AENA,AENA.MC,24.98,25.48,2.0,17.1,,2244878080
+Mayor subida,Repsol,REP.MC,29.19,29.76,1.95,9.66,,3420999936
+Mayor subida,Solaria,SLR.MC,17.22,17.55,1.92,15.95,,164390000
