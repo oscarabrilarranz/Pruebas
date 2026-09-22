@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Repsol,REP.MC,29.61,29.24,-1.25,9.49,,3420999936
-Mayor caída,Naturgy,NTGY.MC,29.58,29.3,-0.95,13.5,,2091000064
-Mayor caída,Indra,IDR.MC,61.8,61.48,-0.52,24.49,,440404992
-Mayor caída,Solaria,SLR.MC,17.28,17.19,-0.52,15.63,,164390000
-Mayor caída,ArcelorMittal,MTS.MC,63.1,62.9,-0.32,30.24,,1812000000
-Mayor subida,Acciona,ANA.MC,208.2,214.6,3.07,32.42,,360000000
-Mayor subida,International Airlines Group,IAG.MC,4.9,5.03,2.67,7.87,,3073999872
-Mayor subida,Acciona Energía,ANE.MC,21.48,22.0,2.42,44.0,,182000000
-Mayor subida,Cellnex Telecom,CLNX.MC,25.0,25.58,2.32,1081.61,,-343035008
-Mayor subida,Bankinter,BKT.MC,16.49,16.85,2.24,13.7,,1150017024
+Mayor caída,Telefónica,TEF.MC,3.58,3.47,-2.83,8.73,,-2524999936
+Mayor caída,Bankinter,BKT.MC,16.85,16.59,-1.54,13.49,,1150017024
+Mayor caída,CaixaBank,CABK.MC,13.15,12.98,-1.26,15.45,,5855000064
+Mayor caída,Mapfre,MAP.MC,4.45,4.4,-1.21,11.28,,1182899968
+Mayor caída,Cellnex Telecom,CLNX.MC,25.58,25.33,-0.98,1071.04,,-343035008
+Mayor subida,Puig,PUIG.MC,16.91,17.56,3.84,17.05,,581502976
+Mayor subida,Acciona Energía,ANE.MC,22.0,22.74,3.36,45.48,,182000000
+Mayor subida,Inditex,ITX.MC,51.78,53.28,2.9,25.99,,6408999936
+Mayor subida,Repsol,REP.MC,29.24,29.81,1.95,9.68,,3420999936
+Mayor subida,Acciona,ANA.MC,214.6,218.6,1.86,33.07,,360000000
