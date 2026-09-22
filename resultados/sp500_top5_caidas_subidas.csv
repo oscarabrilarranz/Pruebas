@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Marathon Petroleum,MPC,424.89,402.38,-5.3,13.95,,8545999872
-Mayor caída,Valero Energy,VLO,413.28,393.27,-4.84,16.41,,7192999936
-Mayor caída,United Parcel Service,UPS,99.06,94.75,-4.35,17.61,,4569999872
-Mayor caída,HP Inc.,HPQ,34.4,32.95,-4.22,12.58,,2451000064
-Mayor caída,Phillips 66,PSX,273.13,261.75,-4.17,14.95,,7085000192
-Mayor subida,Akamai Technologies,AKAM,104.52,117.41,12.33,42.54,,410964992
-Mayor subida,Moderna,MRNA,154.04,172.94,12.27,-38.7,,-3151000064
-Mayor subida,Intel,INTC,108.6,121.78,12.14,59.06,,-11288999936
-Mayor subida,Meta Platforms,META,665.75,741.24,11.34,27.91,,68097998848
-Mayor subida,Warner Bros. Discovery,WBD,27.8,30.8,10.79,440.0,,-3166000128
+Mayor caída,Gen Digital,GEN,29.15,27.29,-6.38,15.96,,1053000000
+Mayor caída,GoDaddy,GDDY,104.77,98.24,-6.23,14.6,,910300032
+Mayor caída,Royal Caribbean Group,RCL,250.25,234.89,-6.14,14.51,,4398000128
+Mayor caída,Charles Schwab Corporation,SCHW,106.88,100.35,-6.11,18.28,,9722500096
+Mayor caída,Allstate,ALL,242.86,229.5,-5.5,4.6,,13189000192
+Mayor subida,Monolithic Power Systems,MPWR,1277.68,1380.62,8.06,84.44,,801945984
+Mayor subida,Sandisk,SNDK,1766.64,1887.04,6.82,25.55,,11432999936
+Mayor subida,Lennar,LEN,78.08,83.06,6.38,15.73,,1288172032
+Mayor subida,Moderna,MRNA,172.94,182.56,5.56,-40.85,,-3151000064
+Mayor subida,Micron Technology,MU,1043.96,1096.16,5.0,24.77,,50468999168
