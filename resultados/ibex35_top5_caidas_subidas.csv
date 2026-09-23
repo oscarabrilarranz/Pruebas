@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Telefónica,TEF.MC,3.58,3.47,-2.83,8.73,,-2524999936
-Mayor caída,Bankinter,BKT.MC,16.85,16.59,-1.54,13.49,,1150017024
-Mayor caída,CaixaBank,CABK.MC,13.15,12.98,-1.26,15.45,,5855000064
-Mayor caída,Mapfre,MAP.MC,4.45,4.4,-1.21,11.28,,1182899968
-Mayor caída,Cellnex Telecom,CLNX.MC,25.58,25.33,-0.98,1071.04,,-343035008
-Mayor subida,Puig,PUIG.MC,16.91,17.56,3.84,17.05,,581502976
-Mayor subida,Acciona Energía,ANE.MC,22.0,22.74,3.36,45.48,,182000000
-Mayor subida,Inditex,ITX.MC,51.78,53.28,2.9,25.99,,6408999936
-Mayor subida,Repsol,REP.MC,29.24,29.81,1.95,9.68,,3420999936
-Mayor subida,Acciona,ANA.MC,214.6,218.6,1.86,33.07,,360000000
+Mayor caída,Solaria,SLR.MC,17.24,16.23,-5.86,14.75,,164390000
+Mayor caída,ACS,ACS.MC,95.95,92.85,-3.23,24.37,,1010313984
+Mayor caída,Grifols,GRF.MC,9.66,9.36,-3.09,14.18,,452000000
+Mayor caída,Acciona,ANA.MC,218.6,213.0,-2.56,32.22,,360000000
+Mayor caída,Telefónica,TEF.MC,3.47,3.39,-2.36,8.52,,-2524999936
+Mayor subida,Repsol,REP.MC,29.81,30.73,3.09,9.98,,3420999936
+Mayor subida,Indra,IDR.MC,61.46,62.24,1.27,24.8,,440404992
+Mayor subida,CaixaBank,CABK.MC,12.98,13.1,0.92,15.6,,5855000064
+Mayor subida,Unicaja,UNI.MC,3.57,3.59,0.67,14.37,,649486016
+Mayor subida,Bankinter,BKT.MC,16.59,16.67,0.48,13.56,,1150017024
