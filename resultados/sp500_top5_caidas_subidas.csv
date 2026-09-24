@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Booking Holdings,BKNG,164.22,155.9,-5.07,17.32,,7208999936
-Mayor caída,McDonald's,MCD,250.35,238.32,-4.81,19.34,,8787000320
-Mayor caída,Alphabet Inc. (Class A),GOOGL,351.16,337.83,-3.8,16.93,,244118994944
-Mayor caída,Sandisk,SNDK,1887.04,1816.57,-3.73,24.62,,11432999936
-Mayor caída,PG&E Corporation,PCG,12.88,12.41,-3.65,8.93,,3056000000
-Mayor subida,Palantir Technologies,PLTR,184.99,191.79,3.68,163.92,,3016691968
-Mayor subida,ServiceNow,NOW,137.0,140.78,2.76,88.54,,1670000000
-Mayor subida,Hewlett Packard Enterprise,HPE,61.03,62.33,2.13,32.13,,2675000064
-Mayor subida,Western Digital,WDC,464.6,473.69,1.96,17.61,,9285999616
-Mayor subida,Boeing,BA,197.72,199.93,1.12,71.66,,2088999936
+Mayor caída,Gen Digital,GEN,26.23,23.07,-12.05,13.49,,1053000000
+Mayor caída,MGM Resorts,MGM,37.85,33.69,-10.99,20.42,,423588000
+Mayor caída,First Solar,FSLR,191.97,172.16,-10.32,10.61,,1746013952
+Mayor caída,Akamai Technologies,AKAM,118.44,110.41,-6.78,40.0,,410964992
+Mayor caída,"Rollins, Inc.",ROL,32.49,30.4,-6.43,27.64,,531716000
+Mayor subida,Everpure,P,109.65,121.88,11.15,166.96,,253284992
+Mayor subida,"Illumina, Inc.",ILMN,255.38,273.9,7.25,51.1,,824000000
+Mayor subida,Moderna,MRNA,182.11,194.82,6.98,-43.59,,-3151000064
+Mayor subida,Charles River Laboratories,CRL,277.33,294.44,6.17,23.16,,-238458000
+Mayor subida,Revvity,RVTY,142.11,150.68,6.03,72.79,,237366000
