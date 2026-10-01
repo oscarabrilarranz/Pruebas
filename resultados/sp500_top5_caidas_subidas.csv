@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Fair Isaac,FICO,840.89,617.87,-26.52,17.88,,815017024
-Mayor caída,Lululemon Athletica,LULU,100.58,96.87,-3.69,7.97,,1417976960
-Mayor caída,Steel Dynamics,STLD,230.39,221.9,-3.69,20.15,,1607240960
-Mayor caída,Equifax,EFX,145.78,140.83,-3.4,24.75,,691400000
-Mayor caída,Nucor,NUE,244.49,236.24,-3.37,18.84,,2872999936
-Mayor subida,Carnival Corporation,CCL,22.14,25.11,13.41,11.31,,3068999936
-Mayor subida,Bloom Energy,BE,262.87,291.25,10.8,383.22,,244942000
-Mayor subida,Royal Caribbean Group,RCL,242.59,260.67,7.45,16.11,,4398000128
-Mayor subida,Lumentum,LITE,921.32,973.49,5.66,28.04,,-6935099904
-Mayor subida,Carvana,CVNA,60.47,63.62,5.21,33.66,,1568000000
+Mayor caída,3M,MMM,168.49,,,29.16,,2996999936
+Mayor caída,A. O. Smith,AOS,58.02,,,15.7,,500300000
+Mayor caída,Abbott Laboratories,ABT,100.95,,,31.98,,5400999936
+Mayor caída,AbbVie,ABBV,263.29,,,73.69,,6270000128
+Mayor caída,Accenture,ACN,177.12,,,14.65,,7789751808
+Mayor subida,3M,MMM,168.49,,,29.16,,2996999936
+Mayor subida,A. O. Smith,AOS,58.02,,,15.7,,500300000
+Mayor subida,Abbott Laboratories,ABT,100.95,,,31.98,,5400999936
+Mayor subida,AbbVie,ABBV,263.29,,,73.69,,6270000128
+Mayor subida,Accenture,ACN,177.12,,,14.65,,7789751808
