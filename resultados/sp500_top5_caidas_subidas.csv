@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,3M,MMM,168.49,,,29.16,,2996999936
-Mayor caída,A. O. Smith,AOS,58.02,,,15.7,,500300000
-Mayor caída,Abbott Laboratories,ABT,100.95,,,31.98,,5400999936
-Mayor caída,AbbVie,ABBV,263.29,,,73.69,,6270000128
-Mayor caída,Accenture,ACN,177.12,,,14.65,,7789751808
-Mayor subida,3M,MMM,168.49,,,29.16,,2996999936
-Mayor subida,A. O. Smith,AOS,58.02,,,15.7,,500300000
-Mayor subida,Abbott Laboratories,ABT,100.95,,,31.98,,5400999936
-Mayor subida,AbbVie,ABBV,263.29,,,73.69,,6270000128
-Mayor subida,Accenture,ACN,177.12,,,14.65,,7789751808
+Mayor caída,Hubbell Incorporated,HUBB,453.6,466.98,2.95,27.68,,900600000
+Mayor caída,3M,MMM,164.15,,,28.96,,2996999936
+Mayor caída,A. O. Smith,AOS,56.37,,,15.79,,500300000
+Mayor caída,Abbott Laboratories,ABT,98.83,,,31.29,,5400999936
+Mayor caída,AbbVie,ABBV,261.59,,,73.22,,6270000128
+Mayor subida,Hubbell Incorporated,HUBB,453.6,466.98,2.95,27.68,,900600000
+Mayor subida,3M,MMM,164.15,,,28.96,,2996999936
+Mayor subida,A. O. Smith,AOS,56.37,,,15.79,,500300000
+Mayor subida,Abbott Laboratories,ABT,98.83,,,31.29,,5400999936
+Mayor subida,AbbVie,ABBV,261.59,,,73.22,,6270000128
