@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Hubbell Incorporated,HUBB,453.6,466.98,2.95,27.68,,900600000
-Mayor caída,3M,MMM,164.15,,,28.96,,2996999936
-Mayor caída,A. O. Smith,AOS,56.37,,,15.79,,500300000
-Mayor caída,Abbott Laboratories,ABT,98.83,,,31.29,,5400999936
-Mayor caída,AbbVie,ABBV,261.59,,,73.22,,6270000128
-Mayor subida,Hubbell Incorporated,HUBB,453.6,466.98,2.95,27.68,,900600000
-Mayor subida,3M,MMM,164.15,,,28.96,,2996999936
-Mayor subida,A. O. Smith,AOS,56.37,,,15.79,,500300000
-Mayor subida,Abbott Laboratories,ABT,98.83,,,31.29,,5400999936
-Mayor subida,AbbVie,ABBV,261.59,,,73.22,,6270000128
+Mayor caída,Western Digital,WDC,462.56,415.29,-10.22,15.43,,9285999616.0
+Mayor caída,Seagate Technology,STX,945.57,848.99,-10.21,61.08,,3184000000.0
+Mayor caída,Accenture,ACN,212.3,198.9,-6.31,15.87,,8367055872.0
+Mayor caída,Corteva,CTVA,12.57,11.92,-5.17,7.22,,
+Mayor caída,AppLovin,APP,281.31,268.22,-4.65,20.63,,4409847808.0
+Mayor subida,Teradyne,TER,415.79,449.04,8.0,61.68,,1150220032.0
+Mayor subida,Hewlett Packard Enterprise,HPE,64.58,69.33,7.36,35.74,,2675000064.0
+Mayor subida,EchoStar,ECHO,88.25,94.25,6.8,4.15,,-5672891904.0
+Mayor subida,ON Semiconductor,ON,80.08,84.89,6.01,56.22,,630200000.0
+Mayor subida,Monolithic Power Systems,MPWR,1360.97,1439.73,5.79,88.16,,801945984.0
