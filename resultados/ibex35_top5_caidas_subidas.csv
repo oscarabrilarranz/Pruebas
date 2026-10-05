@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Repsol,REP.MC,29.81,29.03,-2.62,9.43,,3420999936
-Mayor caída,Unicaja,UNI.MC,3.4,3.33,-1.88,13.34,,649486016
-Mayor caída,Puig,PUIG.MC,17.8,17.64,-0.9,17.13,,581502976
-Mayor caída,Acciona Energía,ANE.MC,22.1,21.94,-0.72,43.88,,182000000
-Mayor caída,Grifols,GRF.MC,9.6,9.53,-0.67,14.45,,452000000
-Mayor subida,ACS,ACS.MC,92.05,95.0,3.2,24.93,,1010313984
-Mayor subida,Sacyr,SCYR.MC,3.89,3.98,2.52,23.44,,133592000
-Mayor subida,Merlin Properties,MRL.MC,11.82,12.11,2.45,8.24,,852153024
-Mayor subida,Cellnex Telecom,CLNX.MC,22.17,22.63,2.07,4804.67,,-343035008
-Mayor subida,Ferrovial,FER.MC,46.51,47.47,2.06,57.19,,592000000
+Mayor caída,ACS,ACS.MC,95.0,,,20.62,,1010313984
+Mayor caída,Acerinox,ACX.MC,17.27,,,53.97,,54071000
+Mayor caída,Amadeus IT Group,AMS.MC,52.8,,,17.52,,1308999936
+Mayor caída,Acciona,ANA.MC,213.6,,,31.63,,360000000
+Mayor caída,Acciona Energía,ANE.MC,21.94,,,37.58,,182000000
+Mayor subida,ACS,ACS.MC,95.0,,,20.62,,1010313984
+Mayor subida,Acerinox,ACX.MC,17.27,,,53.97,,54071000
+Mayor subida,Amadeus IT Group,AMS.MC,52.8,,,17.52,,1308999936
+Mayor subida,Acciona,ANA.MC,213.6,,,31.63,,360000000
+Mayor subida,Acciona Energía,ANE.MC,21.94,,,37.58,,182000000
