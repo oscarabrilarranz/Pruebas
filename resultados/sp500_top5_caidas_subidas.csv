@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,3M,MMM,161.89,,,28.99,,2996999936
-Mayor caída,A. O. Smith,AOS,56.75,,,15.87,,500300000
-Mayor caída,Abbott Laboratories,ABT,97.5,,,32.29,,5400999936
-Mayor caída,AbbVie,ABBV,262.82,,,75.07,,6270000128
-Mayor caída,Accenture,ACN,198.9,,,15.58,,8367055872
-Mayor subida,3M,MMM,161.89,,,28.99,,2996999936
-Mayor subida,A. O. Smith,AOS,56.75,,,15.87,,500300000
-Mayor subida,Abbott Laboratories,ABT,97.5,,,32.29,,5400999936
-Mayor subida,AbbVie,ABBV,262.82,,,75.07,,6270000128
-Mayor subida,Accenture,ACN,198.9,,,15.58,,8367055872
+Mayor caída,Seagate Technology,STX,887.09,805.63,-9.18,57.96,,3184000000.0
+Mayor caída,Moderna,MRNA,203.21,187.46,-7.75,-42.12,,-3151000064.0
+Mayor caída,Western Digital,WDC,441.64,411.04,-6.93,15.27,,9285999616.0
+Mayor caída,"Illumina, Inc.",ILMN,293.69,273.54,-6.86,51.03,,824000000.0
+Mayor caída,KLA Corporation,KLAC,206.85,197.46,-4.54,53.95,,4830771200.0
+Mayor subida,Ciena,CIEN,389.69,443.65,13.85,99.25,,654409984.0
+Mayor subida,Corteva,CTVA,12.39,13.91,12.27,8.59,,
+Mayor subida,Constellation Energy,CEG,267.62,300.4,12.25,29.36,,3464999936.0
+Mayor subida,Vistra Corp.,VST,144.89,160.5,10.77,27.07,,2027000064.0
+Mayor subida,NRG Energy,NRG,96.8,103.6,7.02,27.12,,782000000.0
