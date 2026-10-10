@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Skydance Corporation,SKYD,8.89,9.28,4.39,11.67,,-621000000
-Mayor caída,3M,MMM,162.12,,,29.06,,2996999936
-Mayor caída,A. O. Smith,AOS,55.34,,,15.75,,500300000
-Mayor caída,Abbott Laboratories,ABT,98.73,,,31.77,,5400999936
-Mayor caída,AbbVie,ABBV,271.36,,,76.95,,6270000128
-Mayor subida,Skydance Corporation,SKYD,8.89,9.28,4.39,11.67,,-621000000
-Mayor subida,3M,MMM,162.12,,,29.06,,2996999936
-Mayor subida,A. O. Smith,AOS,55.34,,,15.75,,500300000
-Mayor subida,Abbott Laboratories,ABT,98.73,,,31.77,,5400999936
-Mayor subida,AbbVie,ABBV,271.36,,,76.95,,6270000128
+Mayor caída,Skydance Corporation,SKYD,9.28,9.16,-1.29,15.27,,-621000000
+Mayor caída,Hubbell Incorporated,HUBB,475.4,474.11,-0.27,28.07,,900600000
+Mayor caída,3M,MMM,163.58,,,28.41,,2996999936
+Mayor caída,A. O. Smith,AOS,56.56,,,15.7,,500300000
+Mayor caída,Abbott Laboratories,ABT,98.49,,,31.82,,5400999936
+Mayor subida,Hubbell Incorporated,HUBB,475.4,474.11,-0.27,28.07,,900600000
+Mayor subida,Skydance Corporation,SKYD,9.28,9.16,-1.29,15.27,,-621000000
+Mayor subida,3M,MMM,163.58,,,28.41,,2996999936
+Mayor subida,A. O. Smith,AOS,56.56,,,15.7,,500300000
+Mayor subida,Abbott Laboratories,ABT,98.49,,,31.82,,5400999936
