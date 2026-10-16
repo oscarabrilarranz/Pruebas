@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Ferrovial,FER.MC,45.16,43.22,-4.3,27.71,,592000000
-Mayor caída,Merlin Properties,MRL.MC,11.86,11.38,-4.05,7.74,,852153024
-Mayor caída,Laboratorios Rovi [es],ROVI.MC,59.05,57.6,-2.46,15.91,,185182000
-Mayor caída,Banco Sabadell,SAB.MC,3.62,3.55,-2.02,14.78,,909288000
-Mayor caída,Endesa,ELE.MC,43.19,42.33,-1.99,16.67,,2627000064
-Mayor subida,Cellnex Telecom,CLNX.MC,24.47,25.34,3.56,-377.98,,-343035008
-Mayor subida,Telefónica,TEF.MC,3.22,3.32,2.98,8.46,,-2524999936
-Mayor subida,Grifols,GRF.MC,9.81,10.09,2.85,15.29,,452000000
-Mayor subida,Sacyr,SCYR.MC,3.9,4.0,2.67,23.55,,133592000
-Mayor subida,Amadeus IT Group,AMS.MC,52.6,53.7,2.09,17.72,,1308999936
+Mayor caída,Redeia Corporación,RED.MC,14.94,14.91,-0.2,16.75,,482772992
+Mayor caída,AENA,AENA.MC,25.7,25.7,0.0,4.23,,2244878080
+Mayor caída,CaixaBank,CABK.MC,11.9,11.92,0.13,13.86,,5855000064
+Mayor caída,ArcelorMittal,MTS.MC,56.64,56.76,0.21,27.96,,1812000000
+Mayor caída,Fluidra,FDR.MC,17.65,17.69,0.23,20.1,,166384000
+Mayor subida,Acciona Energía,ANE.MC,21.38,22.06,3.18,38.7,,182000000
+Mayor subida,Telefónica,TEF.MC,3.32,3.41,2.71,8.69,,-2524999936
+Mayor subida,Merlin Properties,MRL.MC,11.38,11.66,2.46,7.93,,852153024
+Mayor subida,Ferrovial,FER.MC,43.22,44.2,2.27,28.33,,592000000
+Mayor subida,Sacyr,SCYR.MC,4.0,4.09,2.15,24.06,,133592000
