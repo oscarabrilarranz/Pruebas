@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Twilio,TWLO,273.4,244.37,-10.62,33.8,,1148742016
-Mayor caída,Supermicro,SMCI,35.09,31.63,-9.86,9.7,,2195842048
-Mayor caída,Flex Ltd.,FLEX,98.5,90.46,-8.16,38.66,,973000000
-Mayor caída,Moderna,MRNA,236.5,218.01,-7.82,-49.13,,-3151000064
-Mayor caída,Palo Alto Networks,PANW,370.27,342.0,-7.63,855.0,,307000000
-Mayor subida,Targa Resources,TRGP,282.55,294.9,4.37,28.19,,2255300096
-Mayor subida,Diamondback Energy,FANG,195.6,203.95,4.27,38.85,,1458000000
-Mayor subida,Kinder Morgan,KMI,32.82,34.2,4.2,22.06,,3448999936
-Mayor subida,APA Corporation,APA,47.23,49.15,4.07,10.39,,1676999936
-Mayor subida,Northrop Grumman,NOC,499.63,519.86,4.05,16.52,,4496000000
+Mayor caída,Mosaic Company (The),MOS,18.82,17.92,-4.78,11.39,,-638499968
+Mayor caída,NRG Energy,NRG,103.75,99.38,-4.21,26.02,,782000000
+Mayor caída,Ameriprise Financial,AMP,500.8,480.41,-4.07,11.6,,3948000000
+Mayor caída,Eversource Energy,ES,66.85,64.48,-3.55,16.7,,1449377024
+Mayor caída,Honeywell Aerospace,HONA,168.09,162.49,-3.33,49.54,,1946000000
+Mayor subida,Western Digital,WDC,332.0,352.21,6.09,13.08,,9285999616
+Mayor subida,Sandisk,SNDK,1299.3,1371.12,5.53,18.59,,11432999936
+Mayor subida,Datadog,DDOG,247.11,260.36,5.36,520.72,,177584000
+Mayor subida,Twilio,TWLO,244.37,257.29,5.29,35.59,,1148742016
+Mayor subida,Amazon,AMZN,250.0,262.45,4.98,21.11,,135281000448
