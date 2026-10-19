@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Redeia Corporación,RED.MC,14.94,14.91,-0.2,16.75,,482772992
-Mayor caída,AENA,AENA.MC,25.7,25.7,0.0,4.23,,2244878080
-Mayor caída,CaixaBank,CABK.MC,11.9,11.92,0.13,13.86,,5855000064
-Mayor caída,ArcelorMittal,MTS.MC,56.64,56.76,0.21,27.96,,1812000000
-Mayor caída,Fluidra,FDR.MC,17.65,17.69,0.23,20.1,,166384000
-Mayor subida,Acciona Energía,ANE.MC,21.38,22.06,3.18,38.7,,182000000
-Mayor subida,Telefónica,TEF.MC,3.32,3.41,2.71,8.69,,-2524999936
-Mayor subida,Merlin Properties,MRL.MC,11.38,11.66,2.46,7.93,,852153024
-Mayor subida,Ferrovial,FER.MC,43.22,44.2,2.27,28.33,,592000000
-Mayor subida,Sacyr,SCYR.MC,4.0,4.09,2.15,24.06,,133592000
+Mayor caída,Solaria,SLR.MC,15.8,15.16,-4.05,8.11,,180260000
+Mayor caída,Indra,IDR.MC,63.68,61.16,-3.96,20.73,,440404992
+Mayor caída,Banco Sabadell,SAB.MC,3.62,3.53,-2.38,14.72,,909288000
+Mayor caída,Redeia Corporación,RED.MC,14.91,14.56,-2.35,16.36,,482772992
+Mayor caída,Acciona,ANA.MC,214.8,210.0,-2.23,31.72,,360000000
+Mayor subida,Cellnex Telecom,CLNX.MC,25.62,25.72,0.39,-383.65,,-343035008
+Mayor subida,ACS,ACS.MC,90.0,90.3,0.33,19.72,,1010313984
+Mayor subida,Enagás,ENG.MC,16.81,16.84,0.18,13.8,,289980000
+Mayor subida,Amadeus IT Group,AMS.MC,54.4,54.3,-0.18,17.92,,1308999936
+Mayor subida,Fluidra,FDR.MC,17.69,17.61,-0.45,20.01,,166384000
