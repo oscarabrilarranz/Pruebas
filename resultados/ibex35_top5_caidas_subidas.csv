@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Amadeus IT Group,AMS.MC,56.64,56.16,-0.85,18.53,,1308999936
-Mayor caída,Cellnex Telecom,CLNX.MC,25.76,25.54,-0.85,-380.97,,-343035008
-Mayor caída,Grifols,GRF.MC,10.15,10.09,-0.69,15.52,,452000000
-Mayor caída,Naturgy,NTGY.MC,30.66,30.58,-0.26,14.09,,2091000064
-Mayor caída,Logista,LOG.MC,36.96,36.88,-0.22,17.56,,277072000
-Mayor subida,Santander,SAN.MC,11.73,11.97,2.06,13.6,,12899999744
-Mayor subida,Bankinter,BKT.MC,14.98,15.28,2.0,12.63,,1150017024
-Mayor subida,Ferrovial,FER.MC,43.9,44.74,1.91,28.68,,592000000
-Mayor subida,Mapfre,MAP.MC,4.37,4.44,1.65,11.69,,1182899968
-Mayor subida,CaixaBank,CABK.MC,11.62,11.81,1.59,13.73,,5855000064
+Mayor caída,Bankinter,BKT.MC,15.28,14.13,-7.56,11.68,,1150017024
+Mayor caída,CaixaBank,CABK.MC,11.81,11.13,-5.72,12.94,,5855000064
+Mayor caída,Solaria,SLR.MC,14.84,14.06,-5.26,7.52,,180260000
+Mayor caída,ACS,ACS.MC,90.95,86.95,-4.4,18.98,,1010313984
+Mayor caída,ArcelorMittal,MTS.MC,56.2,53.9,-4.09,26.55,,1812000000
+Mayor subida,Telefónica,TEF.MC,3.41,3.48,1.82,8.86,,-2524999936
+Mayor subida,Cellnex Telecom,CLNX.MC,25.54,25.95,1.61,-387.08,,-343035008
+Mayor subida,Inmobiliaria Colonial,COL.MC,5.03,5.1,1.39,9.62,,325022016
+Mayor subida,Amadeus IT Group,AMS.MC,56.16,56.92,1.35,18.79,,1308999936
+Mayor subida,Logista,LOG.MC,36.88,37.26,1.03,17.74,,277072000
