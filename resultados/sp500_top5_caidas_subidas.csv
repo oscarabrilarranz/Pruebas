@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Xylem Inc.,XYL,108.24,92.86,-14.21,22.11,,1018000000
-Mayor caída,Boeing,BA,188.31,168.18,-10.69,60.06,,2088999936
-Mayor caída,Valero Energy,VLO,426.76,387.34,-9.24,8.81,,12938000384
-Mayor caída,Marathon Petroleum,MPC,470.64,435.98,-7.36,15.1,,8545999872
-Mayor caída,Phillips 66,PSX,288.85,268.53,-7.03,15.34,,7085000192
-Mayor subida,Pentair,PNR,55.22,62.29,12.8,16.05,,635500032
-Mayor subida,Flex Ltd.,FLEX,76.99,83.35,8.26,32.18,,973000000
-Mayor subida,Dell Technologies,DELL,467.09,501.96,7.47,29.18,,11377999872
-Mayor subida,Supermicro,SMCI,32.69,35.09,7.34,10.76,,2195842048
-Mayor subida,Bloom Energy,BE,203.92,218.5,7.15,287.5,,518305984
+Mayor caída,3M,MMM,171.58,,,25.79,,3536000000
+Mayor caída,A. O. Smith,AOS,62.06,,,16.95,,500300000
+Mayor caída,Abbott Laboratories,ABT,103.1,,,38.3,,4677000192
+Mayor caída,AbbVie,ABBV,286.39,,,80.79,,6270000128
+Mayor caída,Accenture,ACN,235.16,,,17.95,,8367055872
+Mayor subida,3M,MMM,171.58,,,25.79,,3536000000
+Mayor subida,A. O. Smith,AOS,62.06,,,16.95,,500300000
+Mayor subida,Abbott Laboratories,ABT,103.1,,,38.3,,4677000192
+Mayor subida,AbbVie,ABBV,286.39,,,80.79,,6270000128
+Mayor subida,Accenture,ACN,235.16,,,17.95,,8367055872
