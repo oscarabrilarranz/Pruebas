@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,3M,MMM,172.8,,,26.47,,3536000000
-Mayor caída,A. O. Smith,AOS,60.86,,,17.69,,500300000
-Mayor caída,Abbott Laboratories,ABT,102.64,,,38.87,,4677000192
-Mayor caída,AbbVie,ABBV,285.99,,,82.14,,6270000128
-Mayor caída,Accenture,ACN,243.4,,,18.23,,8367055872
-Mayor subida,3M,MMM,172.8,,,26.47,,3536000000
-Mayor subida,A. O. Smith,AOS,60.86,,,17.69,,500300000
-Mayor subida,Abbott Laboratories,ABT,102.64,,,38.87,,4677000192
-Mayor subida,AbbVie,ABBV,285.99,,,82.14,,6270000128
-Mayor subida,Accenture,ACN,243.4,,,18.23,,8367055872
+Mayor caída,Reddit,RDDT,129.6,91.73,-29.22,21.33,,871094976
+Mayor caída,Intel,INTC,92.07,65.76,-28.58,31.34,,-11288999936
+Mayor caída,"Illumina, Inc.",ILMN,290.06,235.99,-18.64,44.03,,824000000
+Mayor caída,Twilio,TWLO,241.9,205.03,-15.24,28.36,,1148742016
+Mayor caída,Sandisk,SNDK,1330.05,1150.89,-13.47,15.6,,11432999936
+Mayor subida,FedEx Freight,FDXF,109.69,126.04,14.91,28.78,,655000000
+Mayor subida,Regeneron Pharmaceuticals,REGN,818.77,927.89,13.33,22.94,,4328699904
+Mayor subida,Global Payments,GPN,85.72,96.84,12.97,45.46,,494190016
+Mayor subida,GoDaddy,GDDY,105.89,117.24,10.72,17.45,,910300032
+Mayor subida,CoStar Group,CSGP,28.14,30.17,7.21,70.16,,179000000
