@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Lumentum,LITE,840.7,684.4,-18.59,18.27,,-6935099904
-Mayor caída,Marvell Technology,MRVL,196.4,171.41,-12.72,56.38,,2639899904
-Mayor caída,Ciena,CIEN,320.72,284.34,-11.34,63.61,,654409984
-Mayor caída,Everpure,P,126.98,113.78,-10.4,155.86,,253284992
-Mayor caída,Intel,INTC,65.76,59.97,-8.8,33.2,,-12032000000
-Mayor subida,Idexx Laboratories,IDXX,551.21,671.64,21.85,47.2,,1139655936
-Mayor subida,Howmet Aerospace,HWM,199.22,212.99,6.91,41.76,,2052999936
-Mayor subida,Pentair,PNR,66.26,70.56,6.49,19.23,,596300032
-Mayor subida,CRH plc,CRH,90.81,96.59,6.36,18.19,,3556000000
-Mayor subida,DoorDash,DASH,178.99,190.07,6.19,78.87,,1063000000
+Mayor caída,Gartner,IT,235.26,204.22,-13.19,18.46,,775350976.0
+Mayor caída,Sysco,SYY,81.74,74.11,-9.33,20.25,,1756999936.0
+Mayor caída,Zebra Technologies,ZBRA,361.13,329.5,-8.76,30.2,,539000000.0
+Mayor caída,Ball Corporation,BALL,68.07,63.21,-7.14,18.01,,945000000.0
+Mayor caída,Archer Daniels Midland,ADM,75.77,70.6,-6.82,19.34,,1770000000.0
+Mayor subida,Fiserv,FISV,51.93,58.4,12.46,11.21,,
+Mayor subida,Bloom Energy,BE,196.25,214.01,9.05,129.7,,518305984.0
+Mayor subida,DuPont,DD,141.3,153.46,8.61,41.25,,306000000.0
+Mayor subida,Revvity,RVTY,151.6,163.48,7.84,78.22,,237366000.0
+Mayor subida,AppLovin,APP,228.85,245.51,7.28,18.87,,4409847808.0
