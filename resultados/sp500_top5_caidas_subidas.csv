@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Gartner,IT,235.26,204.22,-13.19,18.46,,775350976.0
-Mayor caída,Sysco,SYY,81.74,74.11,-9.33,20.25,,1756999936.0
-Mayor caída,Zebra Technologies,ZBRA,361.13,329.5,-8.76,30.2,,539000000.0
-Mayor caída,Ball Corporation,BALL,68.07,63.21,-7.14,18.01,,945000000.0
-Mayor caída,Archer Daniels Midland,ADM,75.77,70.6,-6.82,19.34,,1770000000.0
-Mayor subida,Fiserv,FISV,51.93,58.4,12.46,11.21,,
-Mayor subida,Bloom Energy,BE,196.25,214.01,9.05,129.7,,518305984.0
-Mayor subida,DuPont,DD,141.3,153.46,8.61,41.25,,306000000.0
-Mayor subida,Revvity,RVTY,151.6,163.48,7.84,78.22,,237366000.0
-Mayor subida,AppLovin,APP,228.85,245.51,7.28,18.87,,4409847808.0
+Mayor caída,Fidelity National Information Services,FIS,38.99,29.76,-23.67,4.57,,3372999936
+Mayor caída,Trimble Inc.,TRMB,65.61,54.25,-17.31,13.12,,-104700000
+Mayor caída,Comfort Systems USA,FIX,1285.13,1091.31,-15.08,23.57,,1631830016
+Mayor caída,Datadog,DDOG,220.52,188.72,-14.42,377.44,,177584000
+Mayor caída,Vistra Corp.,VST,139.59,120.29,-13.83,20.28,,2027000064
+Mayor subida,Mosaic Company (The),MOS,18.42,21.62,17.37,14.24,,-638499968
+Mayor subida,"Block, Inc.",XYZ,76.0,87.63,15.3,115.3,,357142016
+Mayor subida,Zimmer Biomet,ZBH,97.06,110.15,13.49,26.8,,806700032
+Mayor subida,Moderna,MRNA,228.44,258.38,13.11,-56.35,,-3151000064
+Mayor subida,Stanley Black & Decker,SWK,104.62,118.33,13.1,28.93,,620499968
