@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Indra,IDR.MC,63.58,59.88,-5.82,18.26,,500028992
-Mayor caída,ACS,ACS.MC,92.3,87.6,-5.09,19.13,,1010313984
-Mayor caída,Repsol,REP.MC,30.31,29.75,-1.85,5.28,,5661000192
-Mayor caída,Grifols,GRF.MC,11.23,11.23,-0.04,16.04,,489000000
-Mayor caída,Acciona Energía,ANE.MC,21.72,21.78,0.28,38.21,,182000000
-Mayor subida,CaixaBank,CABK.MC,11.19,11.9,6.39,12.93,,6176000000
-Mayor subida,Inditex,ITX.MC,56.12,59.06,5.24,27.99,,6408999936
-Mayor subida,Santander,SAN.MC,10.23,10.73,4.87,11.79,,13228999680
-Mayor subida,International Airlines Group,IAG.MC,4.99,5.22,4.54,7.91,,3073999872
-Mayor subida,BBVA,BBVA.MC,21.51,22.44,4.32,11.45,,11201999872
+Mayor caída,Indra,IDR.MC,59.88,57.52,-3.94,17.54,,500028992
+Mayor caída,Merlin Properties,MRL.MC,11.71,11.28,-3.67,7.67,,852153024
+Mayor caída,ACS,ACS.MC,87.6,84.95,-3.03,18.55,,1010313984
+Mayor caída,Acerinox,ACX.MC,15.82,15.49,-2.09,29.23,,114926000
+Mayor caída,Sacyr,SCYR.MC,4.13,4.04,-2.08,23.79,,139871008
+Mayor subida,Laboratorios Rovi [es],ROVI.MC,63.75,69.05,8.31,19.07,,185182000
+Mayor subida,BBVA,BBVA.MC,22.44,22.9,2.05,11.68,,11201999872
+Mayor subida,Bankinter,BKT.MC,14.32,14.58,1.78,11.57,,1179138048
+Mayor subida,Inditex,ITX.MC,59.06,60.06,1.69,29.16,,6408999936
+Mayor subida,Repsol,REP.MC,29.75,30.21,1.55,5.37,,5661000192
