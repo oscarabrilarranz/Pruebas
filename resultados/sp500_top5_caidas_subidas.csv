@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Fidelity National Information Services,FIS,38.99,29.76,-23.67,4.57,,3372999936
-Mayor caída,Trimble Inc.,TRMB,65.61,54.25,-17.31,13.12,,-104700000
-Mayor caída,Comfort Systems USA,FIX,1285.13,1091.31,-15.08,23.57,,1631830016
-Mayor caída,Datadog,DDOG,220.52,188.72,-14.42,377.44,,177584000
-Mayor caída,Vistra Corp.,VST,139.59,120.29,-13.83,20.28,,2027000064
-Mayor subida,Mosaic Company (The),MOS,18.42,21.62,17.37,14.24,,-638499968
-Mayor subida,"Block, Inc.",XYZ,76.0,87.63,15.3,115.3,,357142016
-Mayor subida,Zimmer Biomet,ZBH,97.06,110.15,13.49,26.8,,806700032
-Mayor subida,Moderna,MRNA,228.44,258.38,13.11,-56.35,,-3151000064
-Mayor subida,Stanley Black & Decker,SWK,104.62,118.33,13.1,28.93,,620499968
+Mayor caída,3M,MMM,193.95,,,28.03,,3536000000
+Mayor caída,A. O. Smith,AOS,67.07,,,18.59,,494600000
+Mayor caída,Abbott Laboratories,ABT,115.51,,,42.23,,4677000192
+Mayor caída,AbbVie,ABBV,294.83,,,49.53,,10302999552
+Mayor caída,Accenture,ACN,264.27,,,19.55,,8367055872
+Mayor subida,3M,MMM,193.95,,,28.03,,3536000000
+Mayor subida,A. O. Smith,AOS,67.07,,,18.59,,494600000
+Mayor subida,Abbott Laboratories,ABT,115.51,,,42.23,,4677000192
+Mayor subida,AbbVie,ABBV,294.83,,,49.53,,10302999552
+Mayor subida,Accenture,ACN,264.27,,,19.55,,8367055872
