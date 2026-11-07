@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,3M,MMM,193.95,,,28.03,,3536000000
-Mayor caída,A. O. Smith,AOS,67.07,,,18.59,,494600000
-Mayor caída,Abbott Laboratories,ABT,115.51,,,42.23,,4677000192
-Mayor caída,AbbVie,ABBV,294.83,,,49.53,,10302999552
-Mayor caída,Accenture,ACN,264.27,,,19.55,,8367055872
-Mayor subida,3M,MMM,193.95,,,28.03,,3536000000
-Mayor subida,A. O. Smith,AOS,67.07,,,18.59,,494600000
-Mayor subida,Abbott Laboratories,ABT,115.51,,,42.23,,4677000192
-Mayor subida,AbbVie,ABBV,294.83,,,49.53,,10302999552
-Mayor subida,Accenture,ACN,264.27,,,19.55,,8367055872
+Mayor caída,Axon Enterprise,AXON,382.56,313.0,-18.18,129.88,,258490000
+Mayor caída,Microchip Technology,MCHP,64.85,58.35,-10.02,85.81,,726899968
+Mayor caída,Charter Communications,CHTR,125.86,118.07,-6.19,3.07,,4924000256
+Mayor caída,Insulet Corporation,PODD,156.12,146.51,-6.16,23.94,,428700000
+Mayor caída,Dexcom,DXCM,84.46,79.41,-5.98,31.26,,991000000
+Mayor subida,Coherent Corp.,COHR,169.76,192.81,13.58,39.92,,961699008
+Mayor subida,Airbnb,ABNB,170.13,189.99,11.67,43.28,,3207000064
+Mayor subida,Advanced Micro Devices,AMD,404.4,449.04,11.04,95.95,,7725000192
+Mayor subida,Vistra Corp.,VST,112.89,124.8,10.55,21.05,,2027000064
+Mayor subida,AppLovin,APP,356.1,391.22,9.86,26.34,,5013246976
