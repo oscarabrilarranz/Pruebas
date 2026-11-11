@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,First Solar,FSLR,201.14,191.61,-4.74,11.08,,1861133952
-Mayor caída,Nvidia,NVDA,186.64,178.67,-4.27,23.6,,192880001024
-Mayor caída,Take-Two Interactive,TTWO,214.87,207.4,-3.48,20.36,,-320400000
-Mayor caída,Akamai Technologies,AKAM,83.09,80.29,-3.37,31.24,,387899008
-Mayor caída,Axon Enterprise,AXON,313.0,303.18,-3.14,97.49,,258490000
-Mayor subida,Coherent Corp.,COHR,192.81,225.19,16.79,39.93,,961699008
-Mayor subida,Monolithic Power Systems,MPWR,1190.44,1388.05,16.6,76.1,,893246976
-Mayor subida,Advanced Micro Devices,AMD,449.04,508.58,13.26,108.67,,7725000192
-Mayor subida,Teradyne,TER,218.22,246.0,12.73,28.28,,1373069056
-Mayor subida,Flex Ltd.,FLEX,69.78,78.17,12.02,28.12,,1037000000
+Mayor caída,Moderna,MRNA,269.0,250.83,-6.75,-58.65,,-2788999936
+Mayor caída,First Solar,FSLR,191.61,180.98,-5.55,10.47,,1861133952
+Mayor caída,Nvidia,NVDA,178.67,168.89,-5.47,21.35,,192880001024
+Mayor caída,Lennar,LEN,91.58,86.66,-5.37,16.41,,1295213056
+Mayor caída,"NVR, Inc.",NVR,6338.38,6036.42,-4.76,16.69,,1047236992
+Mayor subida,Charter Communications,CHTR,121.2,134.06,10.61,12.6,,1390000000
+Mayor subida,Take-Two Interactive,TTWO,207.4,224.64,8.31,21.93,,-240500000
+Mayor subida,CVS Health,CVS,85.25,89.01,4.41,10.34,,11036999680
+Mayor subida,Akamai Technologies,AKAM,80.29,83.71,4.26,32.57,,387899008
+Mayor subida,EQT Corporation,EQT,49.91,52.0,4.19,12.32,,2654444032
