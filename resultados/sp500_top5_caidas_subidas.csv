@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Moderna,MRNA,269.0,250.83,-6.75,-58.65,,-2788999936
-Mayor caída,First Solar,FSLR,191.61,180.98,-5.55,10.47,,1861133952
-Mayor caída,Nvidia,NVDA,178.67,168.89,-5.47,21.35,,192880001024
-Mayor caída,Lennar,LEN,91.58,86.66,-5.37,16.41,,1295213056
-Mayor caída,"NVR, Inc.",NVR,6338.38,6036.42,-4.76,16.69,,1047236992
-Mayor subida,Charter Communications,CHTR,121.2,134.06,10.61,12.6,,1390000000
-Mayor subida,Take-Two Interactive,TTWO,207.4,224.64,8.31,21.93,,-240500000
-Mayor subida,CVS Health,CVS,85.25,89.01,4.41,10.34,,11036999680
-Mayor subida,Akamai Technologies,AKAM,80.29,83.71,4.26,32.57,,387899008
-Mayor subida,EQT Corporation,EQT,49.91,52.0,4.19,12.32,,2654444032
+Mayor caída,3M,MMM,189.37,,,28.19,,3536000000
+Mayor caída,A. O. Smith,AOS,64.36,,,18.05,,494600000
+Mayor caída,Abbott Laboratories,ABT,110.46,,,40.78,,4677000192
+Mayor caída,AbbVie,ABBV,293.89,,,50.68,,10302999552
+Mayor caída,Accenture,ACN,258.51,,,18.71,,8367055872
+Mayor subida,3M,MMM,189.37,,,28.19,,3536000000
+Mayor subida,A. O. Smith,AOS,64.36,,,18.05,,494600000
+Mayor subida,Abbott Laboratories,ABT,110.46,,,40.78,,4677000192
+Mayor subida,AbbVie,ABBV,293.89,,,50.68,,10302999552
+Mayor subida,Accenture,ACN,258.51,,,18.71,,8367055872
