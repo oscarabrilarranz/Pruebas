@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,3M,MMM,188.88,,,27.8,,3536000000
-Mayor caída,A. O. Smith,AOS,64.61,,,17.87,,494600000
-Mayor caída,Abbott Laboratories,ABT,109.29,,,40.02,,4677000192
-Mayor caída,AbbVie,ABBV,294.98,,,50.59,,10302999552
-Mayor caída,Accenture,ACN,253.66,,,18.43,,8367055872
-Mayor subida,3M,MMM,188.88,,,27.8,,3536000000
-Mayor subida,A. O. Smith,AOS,64.61,,,17.87,,494600000
-Mayor subida,Abbott Laboratories,ABT,109.29,,,40.02,,4677000192
-Mayor subida,AbbVie,ABBV,294.98,,,50.59,,10302999552
-Mayor subida,Accenture,ACN,253.66,,,18.43,,8367055872
+Mayor caída,Advanced Micro Devices,AMD,585.3,534.06,-8.75,114.12,,7725000192
+Mayor caída,Dell Technologies,DELL,371.17,344.53,-7.18,20.03,,11377999872
+Mayor caída,Cisco,CSCO,102.01,95.64,-6.24,25.44,,13267000320
+Mayor caída,Coherent Corp.,COHR,232.08,218.15,-6.0,45.17,,961699008
+Mayor caída,Sandisk,SNDK,937.46,885.01,-5.59,7.07,,19421999104
+Mayor subida,Charter Communications,CHTR,132.66,138.39,4.32,13.01,,1390000000
+Mayor subida,Steris,STE,253.44,264.32,4.29,31.35,,826899968
+Mayor subida,Global Payments,GPN,88.19,91.9,4.21,164.11,,134400000
+Mayor subida,Fidelity National Information Services,FIS,28.36,29.54,4.16,4.42,,3464000000
+Mayor subida,Fox Corporation (Class A),FOXA,65.71,68.42,4.12,14.56,,2028999936
