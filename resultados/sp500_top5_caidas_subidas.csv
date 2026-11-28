@@ -1,11 +1,11 @@
 Tipo,Empresa,Ticker,Cierre ayer,Cierre hoy,Variación %,PER,Ratio deuda,Beneficio neto
-Mayor caída,Lam Research,LRCX,196.16,185.01,-5.68,27.57,,8449873920
-Mayor caída,Oracle Corporation,ORCL,109.5,103.88,-5.13,16.28,,18736001024
-Mayor caída,Micron Technology,MU,629.79,601.25,-4.53,8.09,,84968996864
-Mayor caída,Datadog,DDOG,165.38,158.25,-4.31,219.79,,262015008
-Mayor caída,Jacobs Solutions,J,151.98,145.49,-4.27,43.17,,398692000
-Mayor subida,HP Inc.,HPQ,27.94,31.15,11.49,11.89,,2424999936
-Mayor subida,Charter Communications,CHTR,135.87,147.27,8.39,13.84,,1390000000
-Mayor subida,Axon Enterprise,AXON,319.32,343.05,7.43,110.31,,258490000
-Mayor subida,CDW Corporation,CDW,163.48,174.97,7.03,20.42,,1099100032
-Mayor subida,Analog Devices,ADI,312.95,333.11,6.44,32.63,,4997425152
+Mayor caída,Vertex Pharmaceuticals,VRTX,564.12,534.57,-5.24,34.4,,3975899904
+Mayor caída,Insulet Corporation,PODD,142.68,138.9,-2.65,22.7,,428700000
+Mayor caída,J.M. Smucker Company (The),SJM,130.06,126.86,-2.46,59.28,,236900000
+Mayor caída,Dollar Tree,DLTR,152.21,148.53,-2.42,17.98,,1605500032
+Mayor caída,GoDaddy,GDDY,105.14,103.07,-1.97,14.18,,961600000
+Mayor subida,Coherent Corp.,COHR,196.19,223.79,14.07,46.33,,961699008
+Mayor subida,Lumentum,LITE,476.58,514.63,7.98,12.82,,-6578999808
+Mayor subida,Seagate Technology,STX,472.33,509.66,7.9,26.73,,4396000256
+Mayor subida,Micron Technology,MU,601.25,646.95,7.6,8.7,,84968996864
+Mayor subida,Generac,GNRC,203.99,219.17,7.44,43.23,,301257984
